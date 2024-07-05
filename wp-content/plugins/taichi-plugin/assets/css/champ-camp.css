@@ -1,0 +1,64 @@
+tbody { margin: 0px ; padding: 0px;}
+.error_class { float: left; border: 2px solid red; display: inline-block; float: left;}
+.sbmit
+{
+    background-color: #21759B;
+    background-image: linear-gradient(to bottom, #2A95C5, #21759B);
+    border-color: #21759B #21759B #1E6A8D;
+    box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    -moz-box-sizing: border-box;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    padding: 5px;
+}
+.sbmit:hover{ color: #FFFFFF !important;}
+input[type="text"] , select {
+    border-color: #DFDFDF;
+    padding: 5px 6px;
+    width: 205px;
+}
+table{ width: 100%; }
+table th { background: #E4E4E4; }
+table tr:first-child { border-top: 2px solid gray;}
+table tr { margin: 5px 5px; border-bottom: 2px gray;}
+table tr td , table th{ padding: 5px; background: none repeat scroll 0 0 #E4E4E4;}
+
+
+ul.tabs  {
+padding: 0;
+margin: 0;
+}
+.tabs li {
+list-style: none;
+display: inline;
+}
+.tabs a.active {
+background: #fff;
+color: #000;
+}
+div[id^="tab"]
+ {
+padding: 10px;
+width: 600px;
+background: #fff;
+}
+.tabs a {
+    background: none repeat scroll 0 0 #666666;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #FFFFFF;
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+     outline: none;
+}
+
+.go_link { font-size: 12px; color: black; font-weight: bold;}
+#PUSHED { display: none !important;}

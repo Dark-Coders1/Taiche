@@ -1,0 +1,1945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Profiles Made Easy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-05 04:44-0800\n"
+"PO-Revision-Date: 2013-10-05 04:44-0800\n"
+"Last-Translator: ThemeFluent <support@themefluent.com>\n"
+"Language-Team: ThemeFluent <support@themefluent.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../upme.php:81 ../classes/class-upme-updater.php:57
+#: ../classes/class-upme.php:439 ../classes/class-upme.php:781
+#: ../classes/class-upme.php:1168 ../js/upme-custom-js.php:69
+#: ../js/upme-custom-js.php:74
+msgid "View Profile"
+msgstr "Profil Ansehen"
+
+#: ../upme.php:82 ../classes/class-upme.php:1172 ../js/upme-custom-js.php:82
+msgid "Edit Profile"
+msgstr "Profil Bearbeiten"
+
+#: ../upme.php:84 ../classes/class-upme.php:2450 ../js/upme-custom-js.php:107
+#, fuzzy
+msgid "Forgot Password"
+msgstr "Kennwort"
+
+#: ../upme.php:85 ../classes/class-upme-updater.php:101
+#: ../classes/class-upme.php:2278 ../js/upme-custom-js.php:117
+msgid "Login"
+msgstr "Anmeldung"
+
+#: ../upme.php:87
+#, fuzzy
+msgid "Please enter your username or email to reset password."
+msgstr "Bitte geben Sie einen Namen ein, der dieses Feld beschreibt."
+
+#: ../upme.php:88
+msgid "Please enter your email address."
+msgstr "Bitte schreiben Sie ihre E-Mail Adresse."
+
+#: ../upme.php:89
+#, fuzzy
+msgid "Please enter valid username or email address."
+msgstr "Gäste müssen eingelocht sein, um Profile anzusehen zu können"
+
+#: ../upme.php:90
+#, fuzzy
+msgid "Password changes are not allowed for this user."
+msgstr "Es ist Ihnen nicht erlaubt diese Datei hochzuladen."
+
+#: ../upme.php:91 ../js/upme-custom-js.php:144
+msgid ""
+"We are unable to deliver email to your email address. Please contact site "
+"admin."
+msgstr ""
+"Wir konnten Ihnen keine E-Mail an Ihre E-Mail-Adresse schicken. Bitte "
+"kontaktieren Sie den Seiten-Administrator."
+
+#: ../upme.php:92
+msgid "We have sent a password reset link to your email address."
+msgstr ""
+"Wir haben Ihnen einen Link zum Zurücksetzen Ihres Passworts an Ihre E-Mail-"
+"Adresse geschickt."
+
+#: ../upme.php:93
+msgid "Something went wrong, please try again"
+msgstr "Etwas ist schiefgegangen. Bitte versuchen sie es erneut."
+
+#: ../upme.php:94
+msgid "Email is already registered."
+msgstr ""
+
+#: ../upme.php:95
+msgid "Email is available"
+msgstr ""
+
+#: ../upme.php:96
+#, fuzzy
+msgid "Invalid email."
+msgstr "Ungültiges usermeta / benutzerdefiniertes Feld."
+
+#: ../upme.php:97
+msgid "Email is empty."
+msgstr ""
+
+#: ../upme.php:98
+msgid "Username is already registered."
+msgstr ""
+
+#: ../upme.php:99
+#, fuzzy
+msgid "Username is available."
+msgstr "Benutzername"
+
+#: ../upme.php:100
+#, fuzzy
+msgid "Username is empty."
+msgstr "Benutzername %s"
+
+#: ../upme.php:101
+#, fuzzy
+msgid "Invalid username."
+msgstr "Ungültiges usermeta / benutzerdefiniertes Feld."
+
+#: ../upme.php:102
+msgid "Are you sure you want to delete this image?"
+msgstr ""
+
+#: ../admin/customizer.php:11
+msgid "Profile Fields Cutomizer"
+msgstr "Anpassung der Profilfelder"
+
+#: ../admin/customizer.php:14
+#, fuzzy
+msgid ""
+"Organize profile fields, add custom fields to profiles, control privacy of "
+"each field, and more using the following customizer. You can drag and drop "
+"the fields to change the order in which they are displayed on profiles and "
+"the registration form."
+msgstr ""
+"Organisiere Profilfelder, füge benutzerdefinierte Felder zu Profilen hinzu, "
+"kontrolliere die Privatsphäre der einzelnen Felder und vieles mehr mit dem "
+"folgenden Customizer."
+
+#: ../admin/customizer.php:18
+msgid "Click here to add new field"
+msgstr "Ein neues Feld hinzufügen"
+
+#: ../admin/customizer.php:24 ../admin/customizer.php:568
+msgid "Position"
+msgstr "Position"
+
+#: ../admin/customizer.php:30 ../admin/customizer.php:573
+msgid ""
+"Please use a unique position. Position lets you place the new field in the "
+"place you want exactly in Profile view."
+msgstr ""
+"Bitte verwenden Sie eine einzigartige Position. Die Position lässt Sie ein "
+"neues Feld genau an der gewünschten Stelle in der Profilansicht platzieren."
+
+#: ../admin/customizer.php:35
+msgid "Type"
+msgstr "Schreiben"
+
+#: ../admin/customizer.php:39 ../admin/customizer.php:475
+#: ../admin/customizer.php:581
+msgid "Profile Field"
+msgstr "Profilfeld"
+
+#: ../admin/customizer.php:42 ../admin/customizer.php:473
+#: ../admin/customizer.php:584
+msgid "Seperator"
+msgstr "Trenner"
+
+#: ../admin/customizer.php:45 ../admin/customizer.php:587
+msgid "You can create a seperator or a usermeta (profile field)"
+msgstr "Sie können eine Trennung erzeugen oder ein Benutzermeta-Profil-Feld"
+
+#: ../admin/customizer.php:50
+msgid "Editor / Input Type"
+msgstr "Editor / Eingabetyp"
+
+#: ../admin/customizer.php:59 ../admin/customizer.php:601
+msgid ""
+"When user edit profile, this field can be an input (text, textarea, image "
+"upload, etc.)"
+msgstr ""
+"Wenn der Benutzer sein Profil bearbeitet, kann dieses Feld eine Eingabe sein "
+"für Text, Textfeld, Bildupload, etc.."
+
+#: ../admin/customizer.php:64
+#, fuzzy
+msgid "Existing Meta Key / Field"
+msgstr "Benutzerdefinierter Metaschlüssel / Feld"
+
+#: ../admin/customizer.php:68
+#, fuzzy
+msgid "Choose a Meta Key"
+msgstr "Metafeld auswählen"
+
+#: ../admin/customizer.php:72 ../admin/customizer.php:108
+#, fuzzy
+msgid "New Custom Meta Key"
+msgstr "Benutzerdefiniertes Metafeld"
+
+#: ../admin/customizer.php:93 ../admin/customizer.php:627
+#, fuzzy
+msgid ""
+"Choose from a predefined/available list of meta fields (usermeta) or skip "
+"this to define a new custom meta key for this field below."
+msgstr ""
+"Wählen Sie aus einer vordefinierten Liste der verfügbaren Meta-Felder "
+"(usermeta) oder verwenden Sie es benutzerdefiniert, um ein einzigartiges "
+"benutzerdefiniertes Feld zu definieren (z.B. Stadt, Adresse, Telefonnummer)"
+
+#: ../admin/customizer.php:113 ../admin/customizer.php:636
+msgid ""
+"Enter a custom meta key for this profile field if do not want to use a "
+"predefined meta field above. It is recommended to only use alphanumeric "
+"characters and underscores, for example my_custom_meta is a proper meta key."
+msgstr ""
+"Geben Sie einen selbstgewählten Metaschlüssel für dieses Profilfeld ein, "
+"wenn Sie oben kein vordefiniertes Metafeld benutzen wollen. Es wird "
+"empfohlen, nur alphanumerische Zeichen und Unterstriche zu benutzen. "
+"Mein_eigener_meta wäre beispielsweise ein gültiger Metaschlüssel."
+
+#: ../admin/customizer.php:118 ../admin/customizer.php:280
+#: ../admin/customizer.php:349
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: ../admin/customizer.php:124 ../admin/customizer.php:644
+msgid ""
+"Enter the label / name of this field as you want it to appear in front-end "
+"(Profile edit/view)"
+msgstr ""
+"Geben Sie die Bezeichnung / Name dieses Feldes, wie Sie es im Front-End "
+"erscheinen (Profil bearbeiten / Ansicht) soll"
+
+#: ../admin/customizer.php:129 ../admin/customizer.php:652
+msgid "Tooltip Text"
+msgstr "Tooltip Text"
+
+#: ../admin/customizer.php:135 ../admin/customizer.php:657
+msgid "A tooltip text can be useful for social buttons on profile header."
+msgstr ""
+"Ein Tooltip Text kann für Social Buttons im Profil-Header sinnvoll sein."
+
+#: ../admin/customizer.php:140 ../admin/customizer.php:660
+msgid "This field is social"
+msgstr "Dieses Feld ist sozial"
+
+#: ../admin/customizer.php:144 ../admin/customizer.php:162
+#: ../admin/customizer.php:174 ../admin/customizer.php:192
+#: ../admin/customizer.php:204 ../admin/customizer.php:220
+#: ../admin/customizer.php:235 ../admin/customizer.php:664
+#: ../admin/customizer.php:683 ../admin/customizer.php:695
+#: ../admin/customizer.php:715 ../admin/customizer.php:728
+#: ../admin/customizer.php:744 ../admin/customizer.php:777
+#: ../widgets/upme-widgets.php:122
+msgid "No"
+msgstr "Nein"
+
+#: ../admin/customizer.php:147 ../admin/customizer.php:159
+#: ../admin/customizer.php:177 ../admin/customizer.php:189
+#: ../admin/customizer.php:207 ../admin/customizer.php:223
+#: ../admin/customizer.php:238 ../admin/customizer.php:667
+#: ../admin/customizer.php:680 ../admin/customizer.php:698
+#: ../admin/customizer.php:712 ../admin/customizer.php:731
+#: ../admin/customizer.php:747 ../admin/customizer.php:780
+#: ../widgets/upme-widgets.php:121
+msgid "Yes"
+msgstr "Ja"
+
+#: ../admin/customizer.php:150 ../admin/customizer.php:670
+msgid ""
+"A social field can show a button with your social profile in the head of "
+"your profile. Such as Facebook page, Twitter, etc."
+msgstr ""
+"Ein Social Feld kann einen Button mit Ihrem sozialen Profil im Kopf ihres "
+"Benutzerprofils anzeigen. Etwa eine Facebook Seite, Twitter, etc."
+
+#: ../admin/customizer.php:155 ../admin/customizer.php:308
+#: ../admin/customizer.php:377 ../admin/customizer.php:676
+msgid "User can edit"
+msgstr "User kann editieren"
+
+#: ../admin/customizer.php:165 ../admin/customizer.php:686
+msgid "Users can edit this profile field or not."
+msgstr "Benutzer können dieses Profilfeld editieren oder nicht."
+
+#: ../admin/customizer.php:170
+msgid "Allow HTML Content"
+msgstr "Erlaube HTML Inhalt"
+
+#: ../admin/customizer.php:180 ../admin/customizer.php:314
+#: ../admin/customizer.php:383 ../admin/customizer.php:701
+msgid "If yes, users will be able to write HTML code in this field."
+msgstr ""
+"Wenn Ja, sind Benutzer in der Lage HTML Code in diesem Feld zu benutzen."
+
+#: ../admin/customizer.php:185 ../admin/customizer.php:316
+#: ../admin/customizer.php:385 ../admin/customizer.php:708
+msgid "User can hide"
+msgstr "Benutzer können verstecken"
+
+#: ../admin/customizer.php:195 ../admin/customizer.php:718
+msgid ""
+"Allow users to hide this profile field from public viewing or not. Selecting "
+"No will cause the field to always be publicly visible if you have public "
+"viewing of profiles enabled. Selecting Yes will give the user a choice if "
+"the field should be publicy visible or not. Private fields are not affected "
+"by this option."
+msgstr ""
+"Nutzern erlauben, dieses Profilfeld öffentlich sichtbar zu machen oder "
+"nicht. Wenn Sie Nein wählen wird das Feld immer öffentlich sichtbar sein, "
+"wenn Sie die öffentliche Anzeige von Profilen aktivieren. Ja gibt dem Nutzer "
+"die Wahl, ob das Feld öffentlich sichtbar ist oder nicht. Private Felder "
+"werden von dieser Option nicht beeinflusst."
+
+#: ../admin/customizer.php:200 ../admin/customizer.php:724
+msgid "This field is private"
+msgstr "Dieses Feld ist privat"
+
+#: ../admin/customizer.php:210 ../admin/customizer.php:734
+msgid "Make this field Private. Only admins can see private fields."
+msgstr ""
+"Definiere dieses Feld als privat. Nur admins können private Felder sehen."
+
+#: ../admin/customizer.php:216
+#, fuzzy
+msgid "This field is required"
+msgstr "Dieses Feld ist privat"
+
+#: ../admin/customizer.php:226 ../admin/customizer.php:750
+msgid ""
+"Selecting yes will force user to provide a value for this field at "
+"registeration and edit profile. Registration or profile edits will not be "
+"accepted if this field is left empty."
+msgstr ""
+"Ja zwingt den Nutzer dazu, einen Wert für dieses Feld bei der Registrierung "
+"und beim Bearbeiten des Profils anzugeben. Die Registrierung oder "
+"Bearbeitung des Profils wird nicht akzeptiert, wenn dieses Feld leer "
+"gelassen wird."
+
+#: ../admin/customizer.php:231
+#, fuzzy
+msgid "Show on Registration form"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/customizer.php:241 ../admin/customizer.php:330
+#: ../admin/customizer.php:399
+msgid ""
+"Show this field on the registration form? If you choose no, this field will "
+"be shown on edit profile only and not on the registration form. Most users "
+"prefer fewer fields when registering, so use this option with care."
+msgstr ""
+"Dieses Feld im Registrierungsformular anzeigen? Wenn Sie Nein wählen, wird "
+"dieses Feld nur bei der Bearbeitung eines Profils angezeigt und nicht im "
+"Registrierungsformular. Die meisten Nutzer bevorzugen weniger Felder bei "
+"einer Registrierung, nutzen Sie diese Option daher mit Bedacht."
+
+#: ../admin/customizer.php:246
+msgid "Icon for this field"
+msgstr "Icon für dieses Feld"
+
+#: ../admin/customizer.php:249 ../admin/customizer.php:807
+#: ../admin/customizer.php:821 ../admin/customizer.php:826
+#: ../admin/general.php:212
+msgid "None"
+msgstr "Keiner"
+
+#: ../admin/customizer.php:260
+msgid "Submit New Field"
+msgstr "Neues Feld einreichen"
+
+#: ../admin/customizer.php:263 ../admin/customizer.php:844
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../admin/customizer.php:277 ../admin/customizer.php:346
+msgid "Icon"
+msgstr "Symbol"
+
+#: ../admin/customizer.php:282 ../admin/customizer.php:351
+msgid "The label that appears in front-end profile view or edit."
+msgstr ""
+"Das Label, welches i der Front-End-Profil-Ansicht angezeigt oder bearbeitet "
+"wird."
+
+#: ../admin/customizer.php:285 ../admin/customizer.php:354
+msgid "Meta Key"
+msgstr "Metaschlüssel"
+
+#: ../admin/customizer.php:287 ../admin/customizer.php:356
+msgid ""
+"This is the meta field that stores this specific profile data (e.g. "
+"first_name stores First Name)"
+msgstr ""
+"Dies ist das Meta-Feld, dass dieses spezifische Profil speichert (z.B. "
+"first_name speichert Vorname)"
+
+#: ../admin/customizer.php:290 ../admin/customizer.php:359
+#: ../admin/customizer.php:591
+msgid "Field Input"
+msgstr "Feldinput"
+
+#: ../admin/customizer.php:292 ../admin/customizer.php:361
+msgid ""
+"This column tells you the field input that will appear to user for this data."
+msgstr ""
+"Diese Spalte zeigt die Feldeingabe an, die dem Benutzer für diese Daten dann "
+"erscheinen."
+
+#: ../admin/customizer.php:295 ../admin/customizer.php:364
+#: ../admin/customizer.php:577
+msgid "Field Type"
+msgstr "Feldtyp"
+
+#: ../admin/customizer.php:297 ../admin/customizer.php:366
+msgid ""
+"Seperator is a legend/section that has a set of fields and appear in Profile "
+"Edit form. A Profile Field is the standard profile field which can be any "
+"user meta/field."
+msgstr ""
+"Seperator ist eine Legende / Abschnitt, der eine Reihe von Feldern und "
+"erscheinen im Profil bearbeiten Form. Ein Profil Feld ist das Standard-"
+"Profil Feld, das jeder Benutzer meta / Feld sein kann."
+
+#: ../admin/customizer.php:300 ../admin/customizer.php:369
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: ../admin/customizer.php:302 ../admin/customizer.php:371
+msgid ""
+"Please note that tooltips can be activated only for Social buttons such as "
+"Facebook, E-mail. Enter tooltip text here."
+msgstr ""
+"Bitte beachten Sie, dass Tooltips nur für Social Buttons wie Facebook oder E-"
+"Mail aktiviert werden können. Geben Sie den Tooltip Text hier ein."
+
+#: ../admin/customizer.php:304 ../admin/customizer.php:373
+msgid "Social"
+msgstr "Soziales"
+
+#: ../admin/customizer.php:306 ../admin/customizer.php:375
+msgid ""
+"Make a field Social to have it appear as a button on the head of profile "
+"such as Facebook, Twitter, Google+ buttons."
+msgstr ""
+"Machen Sie ein Feld Social, um es als Schaltfläche auf dem Kopf des Profils "
+"wie Facebook, Twitter, Google+ Buttons erscheinen zu lassen."
+
+#: ../admin/customizer.php:310 ../admin/customizer.php:379
+msgid "Allow or do not allow user to edit this field."
+msgstr "Benutzern erlauben/nicht erlauben dieses Feld zu editieren."
+
+#: ../admin/customizer.php:312 ../admin/customizer.php:381
+#: ../admin/customizer.php:691
+msgid "Allow HTML"
+msgstr "HTML Erlauben"
+
+#: ../admin/customizer.php:318 ../admin/customizer.php:387
+msgid "Allow user to show/hide this profile field from public view."
+msgstr ""
+"Erlaube Usern dieses Profilfeld der Öffentlichkeit anzuzeigen/zu verstecken."
+
+#: ../admin/customizer.php:320 ../admin/customizer.php:389
+msgid "Private"
+msgstr "Privat"
+
+#: ../admin/customizer.php:322 ../admin/customizer.php:391
+msgid "Only admins can see private fields."
+msgstr "Nur admins können private Felder sehen."
+
+#: ../admin/customizer.php:324 ../admin/customizer.php:393
+msgid "Required"
+msgstr "Benötigt"
+
+#: ../admin/customizer.php:326 ../admin/customizer.php:395
+msgid "This is mandatory field for registration and edit profile."
+msgstr ""
+"Dieses Feld muss bei der Registrierung und beim Bearbeiten eines Profils "
+"ausgefüllt werden."
+
+#: ../admin/customizer.php:328 ../admin/customizer.php:397
+msgid "Show in Registration"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/customizer.php:332 ../admin/customizer.php:401
+msgid "Edit"
+msgstr "Editieren"
+
+#: ../admin/customizer.php:334 ../admin/customizer.php:403
+msgid "Click to edit this profile field."
+msgstr "Klicken, um dieses Profilfeld zu bearbeiten."
+
+#: ../admin/customizer.php:336 ../admin/customizer.php:405
+msgid "Trash"
+msgstr "Löschen"
+
+#: ../admin/customizer.php:338 ../admin/customizer.php:407
+msgid "Click to remove this profile field."
+msgstr "Klicken, um dieses Profilfeld zu entfernen."
+
+#: ../admin/customizer.php:605
+msgid "Choose Meta Field"
+msgstr "Metafeld auswählen"
+
+#: ../admin/customizer.php:609
+msgid "Choose a user field"
+msgstr "Wähle ein Benutzerfeld aus"
+
+#: ../admin/customizer.php:631
+msgid "Custom Meta Field"
+msgstr "Benutzerdefiniertes Metafeld"
+
+#: ../admin/customizer.php:640
+msgid "Label / Name"
+msgstr "Bezeichnung / Name"
+
+#: ../admin/customizer.php:740
+#, fuzzy
+msgid "This field is Required"
+msgstr "Dieses Feld ist privat"
+
+#: ../admin/customizer.php:773
+#, fuzzy
+msgid "Show on Registration Form"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/customizer.php:783
+#, fuzzy
+msgid "Show this profile field on the registration form"
+msgstr "Zeige dieses Profilfeld im WordPress Registrierungsformular"
+
+#: ../admin/customizer.php:795
+msgid "Available Choices"
+msgstr "Vorhandene Möglichkeiten"
+
+#: ../admin/customizer.php:798
+msgid ""
+"Enter one choice per line please. The choices will be available for front "
+"end user to choose from."
+msgstr ""
+"Geben Sie pro Zeile eine Möglichkeit ein. Diese Möglichkeiten werden den "
+"Front-End-Benutzern zur Auswahl stehen."
+
+#: ../admin/customizer.php:803
+msgid "Enable Predefined Choices"
+msgstr "Aktiviere Vordefinierte Möglichkeiten"
+
+#: ../admin/customizer.php:811
+msgid "List of Countries"
+msgstr "Liste an Ländern"
+
+#: ../admin/customizer.php:814
+msgid ""
+"You can enable a predefined filter for choices. e.g. List of countries It "
+"enables country selection in profiles and saves you time to do it on your "
+"own."
+msgstr ""
+"Sie können eine vordefinierte Auswahl an Möglichkeiten für den Filter "
+"aktivieren. Z.B. eine Liste von Ländern. Es ermöglicht eine Länderauswahl in "
+"Profilen und erspart Ihnen somit Zeit."
+
+#: ../admin/customizer.php:819
+msgid "Field Icon:"
+msgstr "Feld Icon:"
+
+#: ../admin/customizer.php:823
+msgid "Change Icon"
+msgstr "Icon Ändern"
+
+#: ../admin/customizer.php:842
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: ../admin/general.php:1
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../admin/general.php:6
+msgid "Style"
+msgstr "Stil"
+
+#: ../admin/general.php:9
+#, fuzzy
+msgid "None - I will use custom CSS"
+msgstr "Ignoriere Stile - Ich benutze eigenes CSS!"
+
+#: ../admin/general.php:22
+msgid "Select Theme Style or disable CSS output to use your own custom CSS."
+msgstr ""
+"Wählen Sie den Erscheinungsstil oder deaktiveren Sie CSS um Ihre eigenes CSS "
+"zu benutzen."
+
+#: ../admin/general.php:28
+msgid "Date Format"
+msgstr ""
+
+#: ../admin/general.php:31
+msgid "Default - mm/dd/yy"
+msgstr ""
+
+#: ../admin/general.php:32
+msgid "ISO 8601 - yy-mm-dd"
+msgstr ""
+
+#: ../admin/general.php:33
+msgid "Short - d M, y"
+msgstr ""
+
+#: ../admin/general.php:34
+msgid "Medium - d MM, y"
+msgstr ""
+
+#: ../admin/general.php:35
+msgid "Full - DD, d MM, yy"
+msgstr ""
+
+#: ../admin/general.php:38
+msgid "Select the date format to be used for date picker."
+msgstr ""
+
+#: ../admin/general.php:43
+#, fuzzy
+msgid "User Profile Settings"
+msgstr "UPME Profilseite"
+
+#: ../admin/general.php:51
+#, fuzzy
+msgid "Display Name / User Link Options"
+msgstr "Namen Links zu Benutzerprofilen anzeigen"
+
+#: ../admin/general.php:53
+#, fuzzy
+msgid "Link to user profiles"
+msgstr "Link zum Benutzerprofil"
+
+#: ../admin/general.php:54
+#, fuzzy
+msgid "Link to author archives"
+msgstr "Link zum Benutzerprofil"
+
+#: ../admin/general.php:55
+#, fuzzy
+msgid "No link, show as static text"
+msgstr "Nein, statischer Text"
+
+#: ../admin/general.php:56
+#, fuzzy
+msgid "Enable/disable linking of Display Names on user profiles"
+msgstr ""
+"Aktiviere / Deaktiviere öffentliche Profillinke unter Benutzung des "
+"Profilanzeigenamens."
+
+#: ../admin/general.php:57
+msgid "This is where the display name on user profiles will link."
+msgstr "Hierhin wird der Anzeigename auf Benutzerprofilen verlinken."
+
+#: ../admin/general.php:63
+#, fuzzy
+msgid "Link Post Count to Author Archive"
+msgstr "Link zum Benutzerprofil"
+
+#: ../admin/general.php:65
+msgid ""
+"If checked, post/entries count on user profiles will link to the Author "
+"archive page."
+msgstr ""
+
+#: ../admin/general.php:66
+msgid ""
+"Unchecking this option will show post count in text only, without linking to "
+"Author archive."
+msgstr ""
+
+#: ../admin/general.php:72
+msgid "Maximum allowed user image size"
+msgstr "Maximal erlaubte Benutzerbildgröße."
+
+#: ../admin/general.php:73
+#, php-format
+msgid ""
+"Provide file size in megabytes, decimal values are accepted. Your server "
+"configuration supports up to <strong>%s</strong>"
+msgstr ""
+
+#: ../admin/general.php:74
+msgid ""
+"Users will receive an error message if they try to upload files larger than "
+"the limit set here."
+msgstr ""
+
+#: ../admin/general.php:79
+#, fuzzy
+msgid "UPME System Pages"
+msgstr "UPME Profilseite"
+
+#: ../admin/general.php:80
+msgid ""
+"These pages are automatically created when UPME is activated. You can leave "
+"them as they are or change to custom pages here."
+msgstr ""
+
+#: ../admin/general.php:87
+msgid "UPME Profile Page"
+msgstr "UPME Profilseite"
+
+#: ../admin/general.php:89
+msgid ""
+"If you wish to change default UPME Profile page, you may set it here. Make "
+"sure you have the <code>[upme]</code> shortcode on this page."
+msgstr ""
+
+#: ../admin/general.php:90
+msgid ""
+"This page is where users will view their own profiles, or view other user "
+"profiles from the member directory if allowed."
+msgstr ""
+
+#: ../admin/general.php:96
+#, fuzzy
+msgid "UPME Login Page"
+msgstr "UPME Profilseite"
+
+#: ../admin/general.php:98
+msgid ""
+"If you wish to change default UPME login page, you may set it here. Make "
+"sure you have the <code>[upme_login]</code> shortcode on this page."
+msgstr ""
+
+#: ../admin/general.php:99
+msgid "The default front-end login page."
+msgstr ""
+
+#: ../admin/general.php:105
+#, fuzzy
+msgid "UPME Registration Page"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/general.php:107
+msgid ""
+"If you wish to change default UPME Registration page, you may set it here. "
+"Make sure you have the <code>[upme_registration]</code> shortcode on this "
+"page."
+msgstr ""
+
+#: ../admin/general.php:108
+msgid "The default front-end Registration page where new users will sign up."
+msgstr ""
+
+#: ../admin/general.php:115
+#, fuzzy
+msgid "Redirect Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../admin/general.php:122
+#, fuzzy
+msgid "Redirect Backend Profiles"
+msgstr "Backend-Profil weiterleiten auf"
+
+#: ../admin/general.php:124
+msgid ""
+"If checked, non-admin users who try to access backend WP profiles will be "
+"redirected to UPME Profile Page specified above."
+msgstr ""
+
+#: ../admin/general.php:125
+msgid ""
+"Checking this option will send all users to the front-end UPME Profile Page "
+"if they try to access the default backend profile page in wp-admin. The page "
+"can be selected in the UPME System Pages settings."
+msgstr ""
+
+#: ../admin/general.php:131
+#, fuzzy
+msgid "Redirect Backend Login"
+msgstr "Backend-Profil weiterleiten auf"
+
+#: ../admin/general.php:133
+msgid ""
+"If checked, non-admin users who try to access backend login form will be "
+"redirected to the front end UPME Login Page specified above."
+msgstr ""
+
+#: ../admin/general.php:134
+msgid ""
+"Checking this option will send all users to the front-end UPME Login Page if "
+"they try to access the default backend login form. The page can be selected "
+"in the UPME System Pages settings."
+msgstr ""
+
+#: ../admin/general.php:140
+#, fuzzy
+msgid "Redirect Backend Registrations"
+msgstr "Backend-Profil weiterleiten auf"
+
+#: ../admin/general.php:142
+msgid ""
+"If checked, non-admin users who try to access backend registration form will "
+"be redirected to the front end UPME Registration Page specified above."
+msgstr ""
+
+#: ../admin/general.php:143
+msgid ""
+"Checking this option will send all users to the front-end UPME Registration "
+"Page if they try to access the default backend registraiton form. The page "
+"can be selected in the UPME System Pages settings."
+msgstr ""
+
+#: ../admin/general.php:148 ../admin/general.php:160
+#, fuzzy
+msgid "No redirect"
+msgstr "Nicht weiterleiten"
+
+#: ../admin/general.php:153
+#, fuzzy
+msgid "Redirect After Login"
+msgstr "Backend-Profil weiterleiten auf"
+
+#: ../admin/general.php:155
+msgid ""
+"Users will be redirected to the page set here after successfully logging in. "
+"<br /> You may over-ride this setting for a specific login form by using the "
+"shortcode <code>[upme_login redirect_to=\"url_here\"]</code>"
+msgstr ""
+
+#: ../admin/general.php:156
+msgid ""
+"Setting this option to \"No Redirect\" will not prevent redirect_to set in "
+"shortcode option from working, the shortcode redirect_to option will over-"
+"ride this setting. If no redirect_to is set in shortcode option, the login "
+"page will simply be reloaded to welcome the logged in user."
+msgstr ""
+
+#: ../admin/general.php:165
+#, fuzzy
+msgid "Redirect After Registration"
+msgstr "Backend-Profil weiterleiten auf"
+
+#: ../admin/general.php:167
+msgid ""
+"New users will be redirected to the page set here after successfully "
+"registering using the UPME registration form. <br /> You may over-ride this "
+"setting for a specific registration form by using the shortcode <code>"
+"[upme_registration redirect_to=\"url_here\"]</code>"
+msgstr ""
+
+#: ../admin/general.php:168
+msgid ""
+"Setting this option to \"No Redirect\" will show the \"Register Success\" "
+"message instead of redirecting to a custom page."
+msgstr ""
+
+#: ../admin/general.php:174
+#, fuzzy
+msgid "Registration Options"
+msgstr "Optionen Zurücksetzen"
+
+#: ../admin/general.php:182
+msgid "User Selected Passwords"
+msgstr ""
+
+#: ../admin/general.php:184
+#, fuzzy
+msgid "Enabled, allow users to set password"
+msgstr "Benutzern erlauben, ein Passwort bei der Registrierung zu setzen"
+
+#: ../admin/general.php:185
+msgid "Disabled, email a random password to users"
+msgstr ""
+
+#: ../admin/general.php:186
+#, fuzzy
+msgid "Enable or disable setting a user selected password at registration"
+msgstr ""
+"Aktiviere / Deaktiviere das Einstellungskennwort beim Registrierungsformular "
+"mit Anzeige der Passwortstärke."
+
+#: ../admin/general.php:187
+msgid ""
+"If enabled, users can choose their own password at registration. If "
+"disabled, WordPress will email users a random password when they register."
+msgstr ""
+
+#: ../admin/general.php:194
+#, fuzzy
+msgid "Automatic Login After Registration"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/general.php:196
+msgid "Enabled, log users in automatically after registration"
+msgstr ""
+
+#: ../admin/general.php:197
+#, fuzzy
+msgid "Disabled, users must login normally after registration"
+msgstr "Gäste müssen eingelocht sein, um Profile anzusehen zu können"
+
+#: ../admin/general.php:199
+#, fuzzy
+msgid "Enable or disable automatic login after registration."
+msgstr ""
+"Aktiviere / Deaktiviere das Einstellungskennwort beim Registrierungsformular "
+"mit Anzeige der Passwortstärke."
+
+#: ../admin/general.php:200
+msgid ""
+"If enabled, users will be logged automatically after registration and "
+"redirected to the page defined in Redirect After Registration setting. If "
+"disabled, users must login normally after registration."
+msgstr ""
+
+#: ../admin/general.php:210
+msgid "Captcha Plugin"
+msgstr ""
+
+#: ../admin/general.php:213
+msgid "FunCaptcha"
+msgstr ""
+
+#: ../admin/general.php:214
+msgid "reCaptcha"
+msgstr ""
+
+#: ../admin/general.php:216
+msgid ""
+"Select which captcha plugin you want to use on the registration form. "
+"Funcaptcha requires the Funcaptcha plugin, however reCaptcha is built into "
+"UPME and requires no additional plugin to be installed. <br /> You can "
+"enable or disable captcha with shortcode options: <code>[upme_registration "
+"captcha=yes]</code> or <code>[upme_registration captcha=no]</code>."
+msgstr ""
+
+#: ../admin/general.php:217
+msgid ""
+"If you are using a captcha that requires a plugin, you must install and "
+"activate the selected captcha plugin. Some captcha plugins require you to "
+"register a free account with them, including FunCaptcha"
+msgstr ""
+
+#: ../admin/general.php:224
+msgid "CAPTCHA Field Label"
+msgstr ""
+
+#: ../admin/general.php:225 ../admin/general.php:226
+msgid "Enter text which you want to show in form in front of CAPTCHA."
+msgstr ""
+
+#: ../admin/general.php:232
+msgid "reCaptcha Public Key"
+msgstr ""
+
+#: ../admin/general.php:233
+msgid ""
+"Enter your reCaptcha Public Key. You can sign up for a free reCaptcha "
+"account <a href=\"http://www.google.com/recaptcha\" title=\"Get a reCaptcha "
+"Key\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../admin/general.php:234 ../admin/general.php:242
+msgid ""
+"Your reCaptcha kays are required to use reCaptcha. You can register your "
+"site for a free key on the Google reCaptcha page."
+msgstr ""
+
+#: ../admin/general.php:240
+msgid "reCaptcha Private Key"
+msgstr ""
+
+#: ../admin/general.php:241
+msgid "Enter your reCaptcha Private Key."
+msgstr ""
+
+#: ../admin/general.php:248
+#, fuzzy
+msgid "Register success message"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/general.php:250
+msgid "Show a text message when users complete the registration process."
+msgstr ""
+
+#: ../admin/general.php:251
+#, fuzzy
+msgid "This message will be shown to users after registration is complted."
+msgstr ""
+"Dies kann ein beliebiger Text / HTML sein, um den Benutzer zu zeigen, wenn "
+"er sich anmelden muss, um sein eigenes Profil anzuschauen bzw. bearbeiten zu "
+"können. Lasse es leer, um nichts anzuzeigen."
+
+#: ../admin/general.php:258
+msgid "Text/HTML below the Register Success message."
+msgstr ""
+
+#: ../admin/general.php:260
+msgid ""
+"Show a text/HTML content under success message when users complete the "
+"registration process."
+msgstr ""
+
+#: ../admin/general.php:261
+#, fuzzy
+msgid ""
+"This message will be shown to users under the success messsage after "
+"registration is completed."
+msgstr ""
+"Dies kann ein beliebiger Text / HTML sein, um den Benutzer zu zeigen, wenn "
+"er sich anmelden muss, um sein eigenes Profil anzuschauen bzw. bearbeiten zu "
+"können. Lasse es leer, um nichts anzuzeigen."
+
+#: ../admin/general.php:285
+#, fuzzy
+msgid "Privacy Options"
+msgstr "Datenschutz / Optionen"
+
+#: ../admin/general.php:293
+#, fuzzy
+msgid "Logged-in user viewing of other profiles"
+msgstr "Angemeldeten Benutzern erlauben andere Profile anzuschauen."
+
+#: ../admin/general.php:295
+#, fuzzy
+msgid "Enabled, logged-in users may view other user profiles"
+msgstr "Angemeldeten Benutzern erlauben andere Profile anzuschauen."
+
+#: ../admin/general.php:296
+#, fuzzy
+msgid "Disabled, users may only view their own profile"
+msgstr "Eingeloggte Benutzer können nur ihr eigenes Profil ansehen."
+
+#: ../admin/general.php:297
+#, fuzzy
+msgid ""
+"Enable or disable logged-in user viewing of other user profiles. Admin users "
+"can always view all profiles."
+msgstr ""
+"Angemeldeten Benutzer erlauben bzw. nicht erlauben andere Profile ansehen zu "
+"dürfen. Wenn deaktiviert, können Benutzer lediglich ihr eigenes Profile "
+"ansehen."
+
+#: ../admin/general.php:298
+#, fuzzy
+msgid ""
+"If enabled, logged-in users are allowed to view other user profiles. If "
+"disabled, logged-in users may only view theor own profile."
+msgstr ""
+"Angemeldeten Benutzer erlauben bzw. nicht erlauben andere Profile ansehen zu "
+"dürfen. Wenn deaktiviert, können Benutzer lediglich ihr eigenes Profile "
+"ansehen."
+
+#: ../admin/general.php:304
+#, fuzzy
+msgid "Guests viewing of profiles"
+msgstr "Gäste können keine Profile ansehen"
+
+#: ../admin/general.php:306
+#, fuzzy
+msgid "Enabled, make profiles publicly visible"
+msgstr "%s muss öffentlich sichtbar sein."
+
+#: ../admin/general.php:307
+#, fuzzy
+msgid "Disabled, users must login to view profiles"
+msgstr "Gäste müssen eingelocht sein, um Profile anzusehen zu können"
+
+#: ../admin/general.php:308
+msgid "Enable or disable guest and non-logged in user viewing of profiles."
+msgstr ""
+
+#: ../admin/general.php:309
+msgid ""
+"If enabled, profiles will be publicly visible to non-logged in users. If "
+"disabled, guests must log in to view profiles."
+msgstr ""
+
+#: ../admin/general.php:316
+msgid "Messages for Insuficient Permissions"
+msgstr ""
+
+#: ../admin/general.php:324
+msgid "Guests cannot view profiles"
+msgstr "Gäste können keine Profile ansehen"
+
+#: ../admin/general.php:326
+#, fuzzy
+msgid ""
+"Show a text/HTML message when guests try to view profiles if they are not "
+"allowed, asking them to login or register to view the profile."
+msgstr ""
+"Zeigen Sie einen individuellen Text / HTML, wenn Sie es Gästen nicht "
+"erlauben, Profile anzusehen. Mit der Bitte sich anzumelden, um das Profil zu "
+"sehen."
+
+#: ../admin/general.php:327
+msgid ""
+"This message will eb shown to guests who try to view profiles if it is not "
+"allowed in the above settings."
+msgstr ""
+
+#: ../admin/general.php:334
+msgid "User must log-in to view/edit his profile"
+msgstr "Benutzer muss sich anmelden, um sein Profil anzusehen/zu bearbeiten"
+
+#: ../admin/general.php:336
+#, fuzzy
+msgid ""
+"Show a text/HTML message asking the user to login to view or edit his own "
+"profile. Leave blank to show nothing."
+msgstr ""
+"Dies kann ein beliebiger Text / HTML sein, um den Benutzer zu zeigen, wenn "
+"er sich anmelden muss, um sein eigenes Profil anzuschauen bzw. bearbeiten zu "
+"können. Lasse es leer, um nichts anzuzeigen."
+
+#: ../admin/general.php:337
+#, fuzzy
+msgid ""
+"This message is shown to users who try to view/edit their own profile but "
+"are not logged in."
+msgstr ""
+"Dies kann ein beliebiger Text / HTML sein, um den Benutzer zu zeigen, wenn "
+"er sich anmelden muss, um sein eigenes Profil anzuschauen bzw. bearbeiten zu "
+"können. Lasse es leer, um nichts anzuzeigen."
+
+#: ../admin/general.php:343
+msgid "User must log-in to view private content"
+msgstr "Benutzer muss sich anmelden, um privaten Inhalt zu sehen."
+
+#: ../admin/general.php:345
+#, fuzzy
+msgid ""
+"Show a text/HTML message to guests and non-logged in users who try to view "
+"private member-only content. Leave blank to show nothing."
+msgstr ""
+"Dies kann ein beliebiger Text / HTML sein, um dem Benutzer zu zeigen, wann "
+"er sich anmelden muss, um private / versteckte Inhalte anzuzeigen. Leer "
+"lassen, um nichts anzuzeigen."
+
+#: ../admin/general.php:346
+msgid ""
+"This message is shown to guests and non-logged in users who try to view "
+"private member-only content."
+msgstr ""
+
+#: ../admin/general.php:353
+#, fuzzy
+msgid "Registration Closed Message"
+msgstr "In der Registrierung anzeigen"
+
+#: ../admin/general.php:355
+msgid ""
+"Show a text/HTML message in place of the registration form when registration "
+"is closed. Registeration can be opened or closed from the WordPress general "
+"settings using the checkbox <code>Anyone can register</code>."
+msgstr ""
+
+#: ../admin/general.php:356
+#, fuzzy
+msgid ""
+"This message is shown to users who try to view the UPME registration form "
+"while you have registrations disabled."
+msgstr ""
+"Dies kann ein beliebiger Text / HTML sein, um den Benutzer zu zeigen, wenn "
+"er sich anmelden muss, um sein eigenes Profil anzuschauen bzw. bearbeiten zu "
+"können. Lasse es leer, um nichts anzuzeigen."
+
+#: ../admin/sync.php:1
+msgid "Auto Sync with WooCommerce"
+msgstr "Auto Sync mit WooCommerce"
+
+#: ../admin/sync.php:5
+msgid ""
+"Syncing with WooCommerce will automatically add WooCommerce customer profile "
+"fields to your UPME. A quick way to have a WooCommerce account page "
+"integrated with UPME. Just click the following button and let UPME do the "
+"work for you."
+msgstr ""
+"Synchronisierung mit WooCommerce fügt automatisch WooCommerce "
+"Kundenprofilfelder zu Ihrem UPME hinzu. Eine schnelle Möglichkeit eine "
+"WooCommerce Account-Seite mit UPME zu integrieren. Klicken Sie einfach auf "
+"den folgenden Button und lassen Sie UPME die Arbeit für Sie erledigen."
+
+#: ../admin/sync.php:7
+msgid "Sync and keep existing fields"
+msgstr "Synchronisieren und bestehende Felder behalten"
+
+#: ../admin/sync.php:8
+msgid "Sync and delete existing fields"
+msgstr "Synchronisieren und bestehende Felder löschen"
+
+#: ../admin/sync.php:12
+msgid "Please install WooCommerce plugin first."
+msgstr "Bitte installiere das WooCommerce Plugin zuerst."
+
+#: ../classes/class-upme-admin.php:11
+#, fuzzy
+msgid "UPME Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../classes/class-upme-admin.php:11
+#, fuzzy
+msgid "Custom Fields"
+msgstr "Benutzerdefiniertes Metafeld"
+
+#: ../classes/class-upme-admin.php:11
+msgid "Sync / Tools"
+msgstr ""
+
+#: ../classes/class-upme-admin.php:16
+#, fuzzy
+msgid "Please log in to view / edit your profile."
+msgstr "Benutzer muss sich anmelden, um sein Profil anzusehen/zu bearbeiten"
+
+#: ../classes/class-upme-admin.php:17
+#, fuzzy
+msgid "Please log in to view user profiles."
+msgstr "Gäste müssen eingelocht sein, um Profile anzusehen zu können"
+
+#: ../classes/class-upme-admin.php:18
+msgid "This content is for members only. You must log in to view this content."
+msgstr ""
+
+#: ../classes/class-upme-admin.php:30 ../classes/class-upme-updater.php:119
+#: ../classes/class-upme.php:1924
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: ../classes/class-upme-admin.php:32 ../classes/class-upme-register.php:154
+msgid "Registration successful. Please check your email."
+msgstr ""
+
+#: ../classes/class-upme-admin.php:179
+#, fuzzy
+msgid "UPME User Profiles"
+msgstr "UPME Profilseite"
+
+#: ../classes/class-upme-admin.php:355
+msgid "Position must be a number."
+msgstr "Position muss eine Zahl sein."
+
+#: ../classes/class-upme-admin.php:363
+#, fuzzy
+msgid "Please enter a label/name for your field."
+msgstr "Bitte geben Sie einen Namen ein, der dieses Feld beschreibt."
+
+#: ../classes/class-upme-admin.php:369 ../classes/class-upme-admin.php:375
+msgid "You must specify a usermeta / custom field."
+msgstr "Sie müssen einen usermeta / benutzerdefiniertes Feld definieren."
+
+#: ../classes/class-upme-admin.php:377
+msgid "Invalid usermeta / custom field."
+msgstr "Ungültiges usermeta / benutzerdefiniertes Feld."
+
+#: ../classes/class-upme-admin.php:439
+msgid "Profile field was added."
+msgstr ""
+
+#: ../classes/class-upme-admin.php:475
+msgid "Settings saved."
+msgstr "Einstellungen gesichert."
+
+#: ../classes/class-upme-admin.php:482 ../classes/class-upme-admin.php:490
+msgid "Settings are reset to default."
+msgstr "Einstellungen sind auf die Grundeinstellungen zurückgesetzt worden."
+
+#: ../classes/class-upme-admin.php:558
+msgid "Profile field was sent to Trash."
+msgstr ""
+
+#: ../classes/class-upme-admin.php:597
+msgid "Save Changes"
+msgstr "Änderungen Speichern"
+
+#: ../classes/class-upme-admin.php:610
+#, fuzzy
+msgid "Reset to Default Fields"
+msgstr "Standardfelder &amp;  Optionen Zurücksetzen"
+
+#: ../classes/class-upme-captcha-loader.php:86
+#: ../classes/class-upme-updater.php:122
+msgid "Human Check"
+msgstr ""
+
+#: ../classes/class-upme-login.php:35
+msgid "<strong>ERROR:</strong> The username field is empty."
+msgstr "<strong>ERROR:</strong> Das Benutzername Feld ist leer."
+
+#: ../classes/class-upme-login.php:41
+msgid "<strong>ERROR:</strong> The password field is empty."
+msgstr "<strong>ERROR:</strong> Das Kennwortfeld ist leer."
+
+#: ../classes/class-upme-login.php:52 ../classes/class-upme-register.php:60
+#, fuzzy
+msgid "<strong>ERROR:</strong> Please complete Captcha Test first."
+msgstr "<strong>ERROR:</strong> Bitte schreiben Sie ihre E-Mail Adresse."
+
+#: ../classes/class-upme-login.php:82
+msgid "<strong>ERROR:</strong> Invalid Username was entered."
+msgstr ""
+
+#: ../classes/class-upme-login.php:85
+msgid "<strong>ERROR:</strong> Incorrect password was entered."
+msgstr "<strong>ERROR:</strong> Ein falsches Kennwort wurde eingegeben."
+
+#: ../classes/class-upme-login.php:89
+#, fuzzy
+msgid "<strong>ERROR:</strong> Please provide Password."
+msgstr "<strong>ERROR:</strong> Bitte schreiben Sie ihre E-Mail Adresse."
+
+#: ../classes/class-upme-register.php:40
+msgid "<strong>ERROR:</strong> Please enter a username."
+msgstr ""
+
+#: ../classes/class-upme-register.php:42
+msgid ""
+"<strong>ERROR:</strong> This username is already registered. Please choose "
+"another one."
+msgstr ""
+"<strong>ERROR:</strong> Dieser Benutzername ist schon vergeben. Bitte "
+"benutzen Sie einen anderen."
+
+#: ../classes/class-upme-register.php:49
+msgid "<strong>ERROR:</strong> Please type your e-mail address."
+msgstr "<strong>ERROR:</strong> Bitte schreiben Sie ihre E-Mail Adresse."
+
+#: ../classes/class-upme-register.php:51
+#, fuzzy
+msgid "<strong>ERROR:</strong> The email address isn't correct."
+msgstr "<strong>ERROR:</strong> Das Benutzername Feld ist leer."
+
+#: ../classes/class-upme-register.php:53
+msgid ""
+"<strong>ERROR:</strong> This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>ERROR:</strong> Diese E-Mail Adresse ist berets registriert, bitte "
+"benutzen Sie eine andere."
+
+#: ../classes/class-upme-register.php:64
+#, fuzzy
+msgid "<strong>ERROR:</strong> Registration is disabled for this site."
+msgstr "<strong>ERROR:</strong> Das Benutzername Feld ist leer."
+
+#: ../classes/class-upme-save.php:62
+msgid "The image file extention is not allowed!"
+msgstr ""
+
+#: ../classes/class-upme-save.php:64
+msgid "The file you have selected exceeds the maximun allowed image size."
+msgstr ""
+
+#: ../classes/class-upme-save.php:66
+msgid "The file you selected appears to be corrupt or not a real image file."
+msgstr ""
+
+#: ../classes/class-upme-save.php:99
+msgid "E-mail address was not updated. Please enter a valid e-mail."
+msgstr ""
+"E-Mail Adresse wurde nicht aktualisiert. Bitte geben Sie eine valide E-Mail "
+"ein."
+
+#: ../classes/class-upme-save.php:107
+msgid "Your passwords do not match."
+msgstr "Ihre Kennwörter stimmen nicht überein."
+
+#: ../classes/class-upme-save.php:165
+msgid "Your profile was updated."
+msgstr "Ihr Profil wurde aktualisiert."
+
+#: ../classes/class-upme-save.php:167
+msgid "Profile was updated."
+msgstr "Profil wurde aktualisiert."
+
+#: ../classes/class-upme-sync-woocommerce.php:112
+#: ../classes/class-upme-sync-woocommerce.php:216
+msgid "WooCommerce customer fields have been added successfully."
+msgstr "WooCommerce Kunden Felder wurden erfolgreich hinzugefügt."
+
+#: ../classes/class-upme-updater.php:80 ../classes/class-upme.php:2225
+#: ../classes/class-upme.php:2407
+msgid "Register"
+msgstr "Registrieren"
+
+#: ../classes/class-upme.php:17
+msgid "Text"
+msgstr "Text"
+
+#: ../classes/class-upme.php:18
+msgid "Image Upload"
+msgstr "Bilderupload"
+
+#: ../classes/class-upme.php:19
+msgid "Textarea"
+msgstr "Textbereich"
+
+#: ../classes/class-upme.php:20
+msgid "Select Dropdown"
+msgstr ""
+
+#: ../classes/class-upme.php:21
+msgid "Radio"
+msgstr ""
+
+#: ../classes/class-upme.php:22
+msgid "Checkbox"
+msgstr ""
+
+#: ../classes/class-upme.php:23 ../classes/class-upme.php:53
+#: ../classes/class-upme.php:112
+msgid "Password"
+msgstr "Kennwort"
+
+#: ../classes/class-upme.php:24
+msgid "Date Picker"
+msgstr ""
+
+#: ../classes/class-upme.php:36 ../classes/class-upme.php:81
+msgid "Username"
+msgstr "Benutzername"
+
+#: ../classes/class-upme.php:44 ../classes/class-upme.php:89
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: ../classes/class-upme.php:56
+msgid ""
+"Password must be at least 7 characters long. To make it stronger, use upper "
+"and lower case letters, numbers and symbols."
+msgstr ""
+"Das Passwort muss mindestens 7 Zeichen lang sein. Um es stärker zu machen, "
+"verwenden Sie Groß- und Kleinbuchstaben, Zahlen und Symbole."
+
+#: ../classes/class-upme.php:63
+#, fuzzy
+msgid "Confirm Password"
+msgstr "Kennwort"
+
+#: ../classes/class-upme.php:66
+#, fuzzy
+msgid "Type your password again."
+msgstr "Geben Sie Ihr neues Kennwort erneut ein."
+
+#: ../classes/class-upme.php:92
+msgid "A password will be e-mailed to you."
+msgstr "Ein Kennwort wird Ihnen per E-Mail zugesendet."
+
+#: ../classes/class-upme.php:104 ../classes/class-upme.php:2439
+#, fuzzy
+msgid "Username or Email"
+msgstr "Benutzername"
+
+#: ../classes/class-upme.php:122
+msgid "Profile Info"
+msgstr "Profil-Information"
+
+#: ../classes/class-upme.php:132
+msgid "Profile Picture"
+msgstr "Profilbild"
+
+#: ../classes/class-upme.php:145
+msgid "First Name"
+msgstr "Vorname"
+
+#: ../classes/class-upme.php:158
+msgid "Last Name"
+msgstr "Nachname"
+
+#: ../classes/class-upme.php:171
+msgid "Display Name"
+msgstr "Namen Anzeigen"
+
+#: ../classes/class-upme.php:184
+msgid "About / Bio"
+msgstr "Über Mich / Bio"
+
+#: ../classes/class-upme.php:198
+msgid "Custom Photo 1"
+msgstr "Benutzerdefiniertes Foto 1"
+
+#: ../classes/class-upme.php:208
+msgid "Contact Info"
+msgstr "Kontaktinformation"
+
+#: ../classes/class-upme.php:218
+#, fuzzy
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../classes/class-upme.php:223
+msgid "Send E-mail"
+msgstr "E-Mail Senden"
+
+#: ../classes/class-upme.php:232
+msgid "Website"
+msgstr "Website"
+
+#: ../classes/class-upme.php:242
+msgid "Social Profiles"
+msgstr ""
+
+#: ../classes/class-upme.php:252
+msgid "Facebook"
+msgstr ""
+
+#: ../classes/class-upme.php:257
+msgid "Connect via Facebook"
+msgstr ""
+
+#: ../classes/class-upme.php:266
+msgid "Twitter Username"
+msgstr "Twitter Benutzername"
+
+#: ../classes/class-upme.php:271
+msgid "Connect via Twitter"
+msgstr ""
+
+#: ../classes/class-upme.php:280
+msgid "Google+"
+msgstr ""
+
+#: ../classes/class-upme.php:285
+msgid "Connect via Google+"
+msgstr ""
+
+#: ../classes/class-upme.php:291 ../classes/class-upme.php:1943
+msgid "Account Info"
+msgstr "Konto Informationen"
+
+#: ../classes/class-upme.php:301
+msgid "New Password"
+msgstr "Neues Kennwort"
+
+#: ../classes/class-upme.php:886
+msgid "first"
+msgstr "erster"
+
+#: ../classes/class-upme.php:889
+msgid "previous"
+msgstr "vorherige"
+
+#: ../classes/class-upme.php:921
+msgid "next"
+msgstr "nächste"
+
+#: ../classes/class-upme.php:923
+msgid "last"
+msgstr "letzter"
+
+#: ../classes/class-upme.php:1003
+msgid "Search Users"
+msgstr "Suche Benutzer"
+
+#: ../classes/class-upme.php:1006
+msgid "ID, username, e-mail address or site URL"
+msgstr "ID, Benutzername, E-Mail Adresse oder site URL"
+
+#: ../classes/class-upme.php:1009
+#, fuzzy
+msgid "Display name"
+msgstr "Namen Anzeigen"
+
+#: ../classes/class-upme.php:1010
+msgid "First or Last name"
+msgstr "Vor- oder Nachname"
+
+#: ../classes/class-upme.php:1014
+msgid "Filter"
+msgstr "Filter"
+
+#: ../classes/class-upme.php:1239
+msgid "No users found matching the selected criteria."
+msgstr "Keine Benutzer gefunden gemäß der ausgewählten Kriterien."
+
+#: ../classes/class-upme.php:1465 ../classes/class-upme.php:2187
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+"Wenn Sie ihr Passwort ändern möchten, geben Sie bitte ein Neues ein. "
+"Ansonsten lassen Sie dieses Feld leer."
+
+#: ../classes/class-upme.php:1467 ../classes/class-upme.php:2189
+msgid "Type your new password again."
+msgstr "Geben Sie Ihr neues Kennwort erneut ein."
+
+#: ../classes/class-upme.php:1476
+#, fuzzy
+msgid "Current Picture"
+msgstr "Profilbild"
+
+#: ../classes/class-upme.php:1481
+msgid ""
+"You can sign up at <a href=\"http://en.gravatar.com/\">Gravatar</a> to have "
+"a globally recognized avatar or upload a custom profile picture below."
+msgstr ""
+"Sie können sich unter <a href=\"http://en.gravatar.com/\">Gravatar</a> "
+"anmelden, um sich ein weltweit anerkanntes Avatar zuzulegen oder ein eigenes "
+"Profilbild hochzuladen."
+
+#: ../classes/class-upme.php:1495
+msgid "Choose File"
+msgstr "Datei Auswählen"
+
+#: ../classes/class-upme.php:1512 ../classes/class-upme.php:2021
+#: ../classes/class-upme.php:2198
+msgid "Hide from Public"
+msgstr "Vor der Öffentlichkeit verstecken"
+
+#: ../classes/class-upme.php:1530
+msgid "Update Profile"
+msgstr "Profil Aktualisieren"
+
+#: ../classes/class-upme.php:1585
+msgid "User ID"
+msgstr ""
+
+#: ../classes/class-upme.php:1621
+msgid "Name"
+msgstr "Name"
+
+#: ../classes/class-upme.php:1740
+#, php-format
+msgid "%s entry"
+msgstr ""
+
+#: ../classes/class-upme.php:1742
+#, php-format
+msgid "%s entries"
+msgstr "%s Einträge"
+
+#: ../classes/class-upme.php:1753
+#, php-format
+msgid "%s comment"
+msgstr ""
+
+#: ../classes/class-upme.php:1755
+#, php-format
+msgid "%s comments"
+msgstr "%s Kommentare"
+
+#: ../classes/class-upme.php:1791 ../classes/class-upme.php:1803
+#, fuzzy
+msgid "Your password is too similar to your username."
+msgstr "Dem Benutzernamen zu ähnlich "
+
+#: ../classes/class-upme.php:1792 ../classes/class-upme.php:1804
+#, fuzzy
+msgid "Both passwords do not match."
+msgstr "Ihre Kennwörter stimmen nicht überein."
+
+#: ../classes/class-upme.php:1793 ../classes/class-upme.php:1805
+#, fuzzy
+msgid "Your password is too short."
+msgstr "Kennwort zu kurz"
+
+#: ../classes/class-upme.php:1794 ../classes/class-upme.php:1806
+#, fuzzy
+msgid "Your password strength is too weak."
+msgstr "Ihre Kennwörter stimmen nicht überein."
+
+#: ../classes/class-upme.php:1795 ../classes/class-upme.php:1807
+#, fuzzy
+msgid "Your password strength is weak."
+msgstr "Ihre Kennwörter stimmen nicht überein."
+
+#: ../classes/class-upme.php:1796
+#, fuzzy
+msgid "Please provide username."
+msgstr "Gäste müssen eingelocht sein, um Profile anzusehen zu können"
+
+#: ../classes/class-upme.php:1797
+msgid "Please provide email address."
+msgstr ""
+
+#: ../classes/class-upme.php:1798
+msgid "Please provide valid email address."
+msgstr ""
+
+#: ../classes/class-upme.php:1799
+msgid "That username is already taken, please try a different one."
+msgstr ""
+
+#: ../classes/class-upme.php:1800
+msgid ""
+"The email you entered is already registered. Please try a new email or log "
+"in to your existing account."
+msgstr ""
+
+#: ../classes/class-upme.php:1808
+msgid "Good"
+msgstr "Gut"
+
+#: ../classes/class-upme.php:1809
+#, fuzzy
+msgid "Strong"
+msgstr "Stark!"
+
+#: ../classes/class-upme.php:1811
+msgid "ERROR"
+msgstr ""
+
+#: ../classes/class-upme.php:1882
+msgid "Your display name will appear here."
+msgstr "Ihr Anzeigname wird hier angezeigt."
+
+#: ../classes/class-upme.php:2396
+msgid "Forget?"
+msgstr ""
+
+#: ../classes/class-upme.php:2418
+msgid "Remember me"
+msgstr "Erinnere Dich an mich"
+
+#: ../classes/class-upme.php:2420
+msgid "Log In"
+msgstr "Log In"
+
+#: ../classes/class-upme.php:2447
+msgid "Back to Login"
+msgstr ""
+
+#: ../classes/class-upme.php:2522
+msgid "Log Out"
+msgstr "Log Out"
+
+#: ../forgotpass/upme-forgot-pass.php:63
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../forgotpass/upme-forgot-pass.php:65
+#, php-format
+msgid "Username: %s"
+msgstr "Benutzername %s"
+
+#: ../forgotpass/upme-forgot-pass.php:66
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../forgotpass/upme-forgot-pass.php:67
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../forgotpass/upme-forgot-pass.php:77
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: ../js/upme-custom-js.php:127
+msgid "Please provide username or email address to reset password."
+msgstr ""
+
+#: ../js/upme-custom-js.php:141
+msgid "Please provide email address which is registered with us."
+msgstr ""
+
+#: ../js/upme-custom-js.php:142
+msgid "Please enter valid user name or email address."
+msgstr ""
+
+#: ../js/upme-custom-js.php:143
+msgid "User with given details is not allowed to change password."
+msgstr ""
+
+#: ../js/upme-custom-js.php:145
+msgid "We have sent password reset link to your email address."
+msgstr ""
+
+#: ../js/upme-custom-js.php:146
+msgid "Something went wrong, Please try again"
+msgstr ""
+
+#: ../widgets/upme-widgets.php:9
+msgid "Displays a list of latest registered users."
+msgstr "Zeige eine Liste der zuletzt registrierten Benutzer."
+
+#: ../widgets/upme-widgets.php:13
+msgid "UPME - Latest Members"
+msgstr "UPME - Neueste Mitglieder"
+
+#: ../widgets/upme-widgets.php:43
+#, php-format
+msgid "View %s Profile"
+msgstr "%s Profil Ansehen"
+
+#: ../widgets/upme-widgets.php:100
+msgid "Latest Registered Members"
+msgstr "Neueste registrierte Mitglieder"
+
+#: ../widgets/upme-widgets.php:104
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../widgets/upme-widgets.php:109
+msgid "How many users to show:"
+msgstr "Wie viele Benutzer sollen angezeigt werden:"
+
+#: ../widgets/upme-widgets.php:114
+msgid "Profile picture size:"
+msgstr "Profil Bildgröße:"
+
+#: ../widgets/upme-widgets.php:119
+msgid "Link to user profile:"
+msgstr "Link zum Benutzerprofil:"
+
+#~ msgid "Reset Options"
+#~ msgstr "Optionen Zurücksetzen"
+
+#~ msgid "Meta Key / Field"
+#~ msgstr "Metaschlüssel / Feld"
+
+#, fuzzy
+#~ msgid ""
+#~ "Selecting Yes will allow logged-in users to view other user profiles. "
+#~ "Private fields on profiles are not shown."
+#~ msgstr ""
+#~ "Angemeldeten Benutzer erlauben bzw. nicht erlauben andere Profile ansehen "
+#~ "zu dürfen. Wenn deaktiviert, können Benutzer lediglich ihr eigenes "
+#~ "Profile ansehen."
+
+#~ msgid "Guests can view"
+#~ msgstr "Gäste können sehen"
+
+#~ msgid "Allow guests to view profiles"
+#~ msgstr "Gästen erlauben Profile anzusehen"
+
+#~ msgid ""
+#~ "Allow or do not allow guests to view user profiles. You can require login "
+#~ "before guests can view profiles."
+#~ msgstr ""
+#~ "Gästen erlauben bzw. nicht erlauben Benutzerprofile anzusehen. Sie können "
+#~ "einen Login verlangen, bevor Gäste Profile ansehen können."
+
+#~ msgid "Custom Redirection / Block WP backend"
+#~ msgstr "Benutzerdefinierte Weiterleitung / WP Backend blocken"
+
+#~ msgid "Custom Defined URL"
+#~ msgstr "Benutzerdefinierte URL"
+
+#~ msgid ""
+#~ "To block access to WordPress backend profile, you can setup redirection "
+#~ "here. Profile page is automatically created by this plugin."
+#~ msgstr ""
+#~ "Um den Zugriff auf das WordPress-Backend-Profil zu sperren, können Sie "
+#~ "die Umleitung hier einrichten. Die Profilseite wird automatisch von "
+#~ "diesem Plugin erstellt."
+
+#~ msgid "Redirect to custom profile URL"
+#~ msgstr "Weiterleitung auf eine benutzerdefinierte URL"
+
+#~ msgid ""
+#~ "If you prefer to redirect WP profile to a custom defined URL (e.g. a "
+#~ "custom page that has the UPME shortcode) Please enter custom URL here."
+#~ msgstr ""
+#~ "Wenn Sie es bevorzugen ihr WP Profil auf eine benutzerdefinierte URL "
+#~ "weiterzuleiten (z.B. eine spezielle Seite, welche einen UPME Shortcode "
+#~ "beinhaltet), geben Sie bitte diese URL hier ein."
+
+#~ msgid "Redirect default login page to custom URL"
+#~ msgstr "Umleitung der Standard-Login-Seite zu einer benutzerdefinierten URL"
+
+#~ msgid ""
+#~ "Enter URL here to disable WordPress backend login and enable redirection "
+#~ "to your custom login page. You can use the <code>[upme_login]</code> "
+#~ "shortcode on any page to create a login page that replace backend login."
+#~ msgstr ""
+#~ "Geben Sie die URL hier ein, um ein Login auf das WP Backend zu verhindern "
+#~ "und die Weiterleitung auf eine spezielle Loginseite zu aktivieren. Sie "
+#~ "können den <code>[upme_login]</code> Shortcode auf jeder Seite verwenden, "
+#~ "um eine Loginseite zu erstellen, welche den Backend-Login ersetzt."
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter URL here to disable WordPress backend login and enable redirection "
+#~ "to your custom login page. You can use the [upme_login] shortcode on any "
+#~ "page to create a login page that replace backend login."
+#~ msgstr ""
+#~ "Geben Sie die URL hier ein, um ein Login auf das WP Backend zu verhindern "
+#~ "und die Weiterleitung auf eine spezielle Loginseite zu aktivieren. Sie "
+#~ "können den <code>[upme_login]</code> Shortcode auf jeder Seite verwenden, "
+#~ "um eine Loginseite zu erstellen, welche den Backend-Login ersetzt."
+
+#~ msgid "Redirect default registration page to custom URL"
+#~ msgstr ""
+#~ "Weiterleitung der Standardregistrierungsseite zu einer individuellen URL"
+
+#~ msgid ""
+#~ "Enter URL here to disable WordPress backend registration and enable "
+#~ "redirection to your custom registration page. You can use the <code>"
+#~ "[upme_registration]</code> shortcode on any page to create a registration "
+#~ "page that replace backend registration."
+#~ msgstr ""
+#~ "Geben Sie die URL hier ein, um ein Registrierung auf dem WP Backend zu "
+#~ "verhindern und die Weiterleitung auf eine spezielle Loginseite zu "
+#~ "aktivieren. Sie können den <code>[upme_registration]</code> Shortcode auf "
+#~ "jeder Seite verwenden, um eine Registrierungsseite zu definieren, welche "
+#~ "die Backend-Registrierung ersetzt."
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter URL here to disable WordPress backend registration and enable "
+#~ "redirection to your custom registration page. You can use the "
+#~ "[upme_registration] shortcode on any page to create a registration page "
+#~ "that replace backend registration."
+#~ msgstr ""
+#~ "Geben Sie die URL hier ein, um ein Registrierung auf dem WP Backend zu "
+#~ "verhindern und die Weiterleitung auf eine spezielle Loginseite zu "
+#~ "aktivieren. Sie können den <code>[upme_registration]</code> Shortcode auf "
+#~ "jeder Seite verwenden, um eine Registrierungsseite zu definieren, welche "
+#~ "die Backend-Registrierung ersetzt."
+
+#~ msgid "General"
+#~ msgstr "Allgemein"
+
+#~ msgid "A field that has the same position already exists."
+#~ msgstr "Ein Feld, dass die gleiche Position hat, ist bereits vorhanden."
+
+#~ msgid "Email Address"
+#~ msgstr "E-Mail Adresse"
+
+#~ msgid ""
+#~ "Enter a custom profile field If you want to create a custom meta for user "
+#~ "profile and do not want to use predefined meta fields above."
+#~ msgstr ""
+#~ "Geben Sie ein benutzerdefiniertes Profilfeld ein, wenn Sie "
+#~ "benutzerdefinierte Metadaten für Benutzerprofile erstellen wollen und "
+#~ "nicht auf die vordefinierten Metafelder oben zurückgreifen möchten."
+
+#~ msgid "Users can hide this profile field or not."
+#~ msgstr "Benutzer kann dieses Profilfeld verstecken oder eben nicht."
+
+#~ msgid "Show in WordPress Registration form"
+#~ msgstr "Im WordPress Registrierungsformular anzeigen"
+
+#~ msgid ""
+#~ "Use position to control the order of this field. Lower positions appear "
+#~ "first."
+#~ msgstr ""
+#~ "Benutze Position, um die Reihenfolge des Feldes zu kontrollieren. Untere "
+#~ "Positionen erscheinen zuerst."
+
+#~ msgid "Include in WordPress registration"
+#~ msgstr "In WordPress Registrierung inkludieren"
+
+#~ msgid "Yes!"
+#~ msgstr "Ja!"
+
+#, fuzzy
+#~ msgid "Passwords do not match"
+#~ msgstr "Ihre Kennwörter stimmen nicht überein."
+
+#~ msgid "Very Weak"
+#~ msgstr "Sehr schwach"
+
+#~ msgid "Weak"
+#~ msgstr "Schwach"

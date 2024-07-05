@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sb-login\n"
+"POT-Creation-Date: 2013-02-09 20:12+0330\n"
+"PO-Revision-Date: 2013-03-09 16:39+0600\n"
+"Last-Translator: \n"
+"Language-Team: www.alimir.ir <info@alimir.ir>\n"
+"Language: Persian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;_n;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../sb-login.php:94
+msgid ""
+"An Ajax powered Login &amp; Register widget. See the ReadMe for "
+"customisation instructions."
+msgstr ""
+
+#: ../sb-login.php:95
+msgid "SB Login"
+msgstr ""
+
+#: ../sb-login.php:165 ../sb-login.php:220
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>সমস্যা</strong>: একটি ইউজার নেম দিন "
+
+#: ../sb-login.php:168
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>সমস্যাا</strong>: আপনার পাসওয়ার্ড দিন"
+
+#: ../sb-login.php:222
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr "<strong>সমস্যাا</strong>: এই ইউজার নেম বৈধ নয় । আরেকটি দিন "
+
+#: ../sb-login.php:224
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr "<strong>সমস্যা</strong>: এই ইউজার নেম রেজিস্টারড । অন্য আরেকটি দিন "
+
+#: ../sb-login.php:228
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>সমস্যা</strong>:  আপনার ইমেইল দিন "
+
+#: ../sb-login.php:230
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>সমস্যাا</strong>: ইমেইলটি বৈধ নয় "
+
+#: ../sb-login.php:232
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr "<strong>সমস্যা</strong>: এই ইমেইল রেজিস্টারড অন্য আরেকটি দিন "
+
+#: ../sb-login.php:236
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>সমস্যা</strong>: একটি পাসওয়ার্ড দিন "
+
+#: ../sb-login.php:238
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>সমস্যা</strong>:  পাসওয়ার্ড মিলছে না !"
+
+#: ../sb-login.php:248
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>সমস্যা</strong>: রেজিস্টার করা গেল না...দয়া করে <a href=\"mailto:%s"
+"\">এডমিন</a> এর সাথে যোগাযোগ করুন"
+
+#: ../sb-login.php:282
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>সমস্যা </strong>: একটি ইউজার নেম অথবা ইমেইল দিন "
+
+#: ../sb-login.php:286
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong> সমস্যা </strong>: এই ইমেইল এ কেউ রেজিস্ট্রেশান করেনি !"
+
+#: ../sb-login.php:294
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>সমস্যা</strong>: অবৈধ ইউজার নেম বা ইমেইল "
+
+#: ../sb-login.php:315
+msgid "Password reset is not allowed for this user"
+msgstr "এই ইউজার পাসওয়ার্ড রিসেট করতে পারবে না । "
+
+#: ../sb-login.php:338
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr "নিচের সাইট এবং ইউজার এর পাসওয়ার্ড রিসেট এর আবেদন করা হয়েছিল । "
+
+#: ../sb-login.php:340
+#, php-format
+msgid "Username: %s"
+msgstr "ইউজারনেম : %s"
+
+#: ../sb-login.php:341
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+"পাসওয়ার্ড রিসেট এর জন্য নিচের লিঙ্ক কে অনুসরণ করুন । না করলে সব আগের মতই থাকবে "
+
+#: ../sb-login.php:347
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] পাসওয়ার্ড রিসেট "
+
+#: ../sb-login.php:355
+msgid "Check your e-mail for the confirmation link."
+msgstr "কনফারমেসান লিঙ্ক এর জন্য ইমেইল চেক করুন "
+
+#: ../template/logged-in.php:26
+msgid "Welcome"
+msgstr "স্বাগতম "
+
+#: ../template/logged-in.php:29
+msgid "You last logged in on "
+msgstr "আপনি শেষ বার লগইন করেছিলেন"
+
+#: ../template/logged-in.php:29
+msgid "l \\t\\h\\e jS \\of F, Y \\a\\t h:ia"
+msgstr "F j, Y"
+
+#: ../template/logged-in.php:35
+msgid "Since last logging in there has been "
+msgstr "শেষ বার লগইন করার পর থেকে "
+
+#: ../template/logged-in.php:37
+msgid "new post and "
+msgstr " টি নতুন পোস্ট এবং "
+
+#: ../template/logged-in.php:39
+msgid "new comment"
+msgstr "টি নতুন মন্তব্য হয়েছে "
+
+#: ../template/logged-in.php:43
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড "
+
+#: ../template/logged-in.php:44
+msgid "Edit Profile"
+msgstr "প্রোফাইল "
+
+#: ../template/logged-in.php:45
+msgid "Log out"
+msgstr "লগ আউট "
+
+#: ../template/logged-in.php:50
+msgid "Recently Viewed Posts"
+msgstr "সাম্প্রতিক ভিসিট করা পোস্ট "
+
+#: ../template/logged-in.php:62
+msgid "You have not viewed any posts recently."
+msgstr "আপনি কোন পোস্ট দেখেননি এখনও "
+
+#: ../template/logged-in.php:66
+msgid "My Recent Comments"
+msgstr "আপনার সাম্প্রতিক মন্তব্য "
+
+#: ../template/logged-in.php:86
+msgid "You have not made any comments."
+msgstr "আপনি এখনও কোন মন্তব্য করেননি "
+
+#: ../template/login-form.php:16 ../template/register-form.php:16
+msgid "Username"
+msgstr "ইউজারনেম "
+
+#: ../template/login-form.php:17 ../template/register-form.php:18
+msgid "Password"
+msgstr "পাসওয়ার্ড "
+
+#: ../template/login-form.php:19
+msgid "Lost your password?"
+msgstr "পাসওয়ার্ড ভুলে গেছেন? "
+
+#: ../template/login-form.php:19
+msgid "Login &rarr;"
+msgstr "লগইন &rarr;"
+
+#: ../template/lost-password-form.php:17
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr "আপনার ইউজারনেম বা ইমেইল টি দিন একটি নতুন পাসওয়ার্ড পাঠিয়ে দেয়া হবে "
+
+#: ../template/lost-password-form.php:19
+msgid "Username/Email"
+msgstr "ইউজারনেম বা ইমেইল "
+
+#: ../template/lost-password-form.php:19 ../template/register-form.php:17
+msgid "you@yourdomain.com"
+msgstr "আপনার ইমেইল "
+
+#: ../template/lost-password-form.php:21
+msgid "Get New Password &rarr;"
+msgstr "নতুন পাসওয়ার্ড নিন &rarr;"
+
+#: ../template/register-form.php:17
+msgid "Email"
+msgstr "ইমেইল "
+
+#: ../template/register-form.php:19
+msgid "Re-enter"
+msgstr "পুনরায় প্রবেশ করান "
+
+#: ../template/register-form.php:19
+msgid "Re-enter Password"
+msgstr "আবার পাসওয়ার্ড দিন "
+
+#: ../template/register-form.php:21
+msgid "Register &rarr;"
+msgstr "রেজিস্টার &rarr;"
+
+#: ../template/tabs.php:27
+msgid "Recent Activity"
+msgstr "সাম্প্রতিক কার্যকলাপ "
+
+#: ../template/tabs.php:33
+msgid "Login"
+msgstr "লগইন "
+
+#: ../template/tabs.php:34
+msgid "Register"
+msgstr "রেজিস্টার "

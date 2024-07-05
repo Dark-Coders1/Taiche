@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SB Login fr-FR\n"
+"POT-Creation-Date: 2013-02-02 04:34+0100\n"
+"PO-Revision-Date: 2013-02-02 05:13+0100\n"
+"Last-Translator: julfox37 <julfox37@hotmail.fr>\n"
+"Language-Team: darth73 <gamestracks@gmail.com>\n"
+"Language: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/julfox37/Desktop/sb-login\n"
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:107
+msgid ""
+"An Ajax powered Login &amp; Register widget. See the ReadMe for "
+"customisation instructions."
+msgstr ""
+"Ajax génère les widget Login &amp; Register. Lire ReadMe pour les "
+"instructions de personalisation."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:108
+msgid "SB Login"
+msgstr ""
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:178
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:233
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>Erreur</strong>: Veuillez entrer un pseudo."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:181
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>Erreur</strong>: Veuillez entrer votre mot de passe."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:235
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr ""
+"<strong>Erreur</strong>: Ce pseudo est non valide.  Veuillez entrer un "
+"pseudo valide."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:237
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>Erreur</strong>: Ce pseudo est déjà enregistré, veuillez en choisir "
+"un autre."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:241
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>Erreur</strong>: Veuillez entrer votre adresse e-mail."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:243
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>Erreur</strong>: Cet adresse e-mail est incorrect."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:245
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>Erreur</strong>: Cet e-mail est déjà enregistré, veuillez en choisir "
+"un autre."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:249
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>Erreur</strong>: Veuillez entrer un mot de passe."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:251
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>Erreur</strong>: Les mots de passe ne correspondent pas."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:261
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>Erreur</strong>: Impossible de vous inscrire... veuillez contacter "
+"le <a href=\"mailto:%s\">webmaster</a> !"
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:295
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>Erreur</strong>: Entrer un pseudo ou une adresse e-mail."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:299
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+"<strong>Erreur</strong>: Il y a aucun utilisateur enregistré avec cette "
+"adresse e-mail."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:307
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>Erreur</strong>: Pseudo ou mot de passe invalide."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:328
+msgid "Password reset is not allowed for this user"
+msgstr ""
+"La réinitialisation du mot de passe n'est pas autorisée pour cet utilisateur"
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:351
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+"Quelqu'un a demandé de réinitialiser le mot de passe et le pseudo pour ce "
+"site."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:353
+#, php-format
+msgid "Username: %s"
+msgstr "Pseudo : %s"
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:354
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+"Pour réinitialiser votre mot de passe, rendez-vous à l'adresse suivante ou "
+"sinon, ignorer tout simplement ce message et rien ne se passera."
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:360
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Mot de passe réinitialisé"
+
+#: /Users/julfox37/Desktop/sb-login/sb-login.php:368
+msgid "Check your e-mail for the confirmation link."
+msgstr "Vérifiez votre e-mail pour le lien de confirmation."
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:10
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:13
+msgid "You last logged in on "
+msgstr "Votre dernier connexion fût le"
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:13
+msgid "l \\t\\h\\e jS \\of F, Y \\a\\t h:ia"
+msgstr ""
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:27
+msgid "Dashboard"
+msgstr ""
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:28
+msgid "Edit Profile"
+msgstr "Modifier le Profil"
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:29
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:34
+msgid "Recently Viewed Posts"
+msgstr "Messages récemment vus"
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:46
+msgid "You have not viewed any posts recently."
+msgstr "Vous n'avez pas vu tous les messages récemment."
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:50
+msgid "My Recent Comments"
+msgstr "Mes derniers commentaires"
+
+#: /Users/julfox37/Desktop/sb-login/template/logged-in.php:70
+msgid "You have not made any comments."
+msgstr "Vous avez fait aucun commentaire."
+
+#: /Users/julfox37/Desktop/sb-login/template/login-form.php:18
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:17
+msgid "Username"
+msgstr "Pseudo"
+
+#: /Users/julfox37/Desktop/sb-login/template/login-form.php:19
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:19
+msgid "Password"
+msgstr "Mot de passe"
+
+#: /Users/julfox37/Desktop/sb-login/template/login-form.php:21
+msgid "Lost your password?"
+msgstr "Mot de passe oublié ?"
+
+#: /Users/julfox37/Desktop/sb-login/template/login-form.php:21
+msgid "Login &rarr;"
+msgstr "Se connecter &rarr;"
+
+#: /Users/julfox37/Desktop/sb-login/template/lost-password-form.php:15
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr ""
+"Veuillez entrer votre pseudo ou votre adresse e-mail. Vous allez recevoir un "
+"nouveau mot de passe par e-mail."
+
+#: /Users/julfox37/Desktop/sb-login/template/lost-password-form.php:17
+msgid "Username/Email"
+msgstr "Pseudo/E-mail"
+
+#: /Users/julfox37/Desktop/sb-login/template/lost-password-form.php:17
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:18
+msgid "you@yourdomain.com"
+msgstr "vous@votredomaine.com"
+
+#: /Users/julfox37/Desktop/sb-login/template/lost-password-form.php:19
+msgid "Get New Password &rarr;"
+msgstr "Obtenir un nouveau mot de passe &rarr;"
+
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:18
+msgid "Email"
+msgstr "E-mail"
+
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:20
+msgid "Re-enter"
+msgstr "Entrer de nouveau"
+
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:20
+msgid "Re-enter Password"
+msgstr "Entrer de nouveau le mot de passe"
+
+#: /Users/julfox37/Desktop/sb-login/template/register-form.php:22
+msgid "Register &rarr;"
+msgstr "S'inscrire &rarr;"
+
+#: /Users/julfox37/Desktop/sb-login/template/tabs.php:12
+msgid "Recent Activity"
+msgstr "Activités récentes"
+
+#: /Users/julfox37/Desktop/sb-login/template/tabs.php:18
+msgid "Login"
+msgstr "Se connecter"
+
+#: /Users/julfox37/Desktop/sb-login/template/tabs.php:19
+msgid "Register"
+msgstr "S'inscrire"

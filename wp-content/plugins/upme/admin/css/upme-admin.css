@@ -1,0 +1,182 @@
+table.upme-table {
+	margin: 20px 0 0 0;
+}
+
+table.upme-table th {font-family: Open Sans;font-size: 12px;}
+
+table.upme-table td { padding: 10px }
+
+table.upme-table .regular-text {
+	width: 94%;
+}
+
+table.upme-table td i {
+	font-size: 20px;
+}
+
+table.upme-table i.upme-tooltip2, table.upme-table i.upme-tooltip, table.upme-add-form i.upme-tooltip2 {
+	margin: 0 0 0 6px;
+	cursor: help;
+	color: #366799;
+	font-size: 14px;
+}
+table.upme-table i.upme-tooltip2:hover,
+table.upme-table i.upme-tooltip:hover,
+table.upme-add-form i.upme-tooltip2:hover {color: #ff7000}
+
+table.upme-table a {color: #666}
+
+table.upme-table a.upme-trash {color: #ff0000}
+
+/* The inline editor */
+.upme-editor * {font-size: 11px}
+
+.upme-editor p {
+	display: block;
+}
+
+table.upme-table tr.upme-editor label.upme-icons {
+	margin: 0 20px 0 0;
+	padding:0 0 10px 0;
+	float: left;
+	width: 50px;
+	display: none;
+}
+
+table.upme-table tr.upme-editor label.upme-icons i {
+	font-size: 14px;
+	margin: 0 0 0 10px;
+}
+
+i.upme-ticked {
+	background: url(../images/tick.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	float: left;
+	display: block;
+}
+
+i.upme-unticked {
+	background: url(../images/untick.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	float: left;
+	display: block;
+}
+
+p.upme-hide {
+	display: none;
+}
+
+/* Form that adds new fields */
+table.upme-add-form {
+	border: 1px solid #ddd;
+	display: none;
+}
+
+tr.upme-editor {display: none}
+
+table.upme-add-form label.upme-icons {
+	margin: 0 20px 0 0;
+	padding:0 0 16px 0;
+	float: left;
+	width: 50px;
+}
+
+table.upme-add-form label.upme-icons i {
+	line-height: 20px;
+	color: #444;
+	cursor: pointer;
+	margin: 0 0 0 10px;
+	font-size: 18px;
+}
+
+span.mce_upme_shortcodes_button{background-image:url(../images/upme-icon-20.png)!important;background-repeat:no-repeat!important;background-position:center!important}
+
+.text-area
+{
+	width: 50% !important;
+	
+}
+
+.option-help
+{
+	font-size: 15px;
+margin-left: 10px;
+color: #366799;
+}
+
+.option-help:hover
+{
+	color: #ff7000;
+}
+
+.dragging
+{
+	background-color: #F5FA5C;
+}
+
+/* Tabbing */
+
+.upme-shortcode-popup-tabs { padding: 0; clear: both; }
+.upme-shortcode-popup-tabs li a { background: #f5f5f5; padding: 5px; float:left; border-right: 1px solid #ccf; border-bottom: 2px solid #CCC; text-decoration: none; color: #444; font-weight: bold; }
+.upme-shortcode-popup-tabs li.active a { background: #D8D8D8; color: #1A1818 !important; border-bottom: 2px solid #1A1818; }
+.upme-shortcode-popup-content { float: left; clear: both; border-top: 0px none; background: #f5f5f5; padding: 10px 20px 20px; width: 565px; }
+
+.small_help
+{
+	font-size: 11px;
+font-style: normal;
+color: #666;
+}
+
+/* New Setting Page Design */
+.upme-tab-group
+{
+	background-color: #F1F1F1;
+	border: 1px solid #DFDFDF;
+	margin-right: 9px;
+	border-radius: 3px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	display: block;	
+}
+
+.upme-tabs
+{
+	width: 175px;
+	float: left; 
+	margin: 10px 0px 0px 0px;
+}
+
+.upme-tabs li
+{
+	margin: 10px 0px;
+	padding: 5px 0px 5px 5px;
+	cursor: pointer;
+}
+
+.upme-tabs li.active
+{
+	font-weight: bold;
+	background-color: #777;
+	color: #FFF; 
+}
+
+.upme-tab-content-holder
+{
+	overflow: hidden;
+}
+
+.upme-tab-container
+{
+	margin-left: 175px;
+	background-color: #FFF;
+	padding: 20px 20px 40px 20px;
+	border-left: 1px solid #DFDFDF	
+}
+
+.upme-tab-content h3
+{
+	font-size: 1.6em;
+	margin-top: 2px;	
+}

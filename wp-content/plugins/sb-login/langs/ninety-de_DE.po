@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sb-login\n"
+"POT-Creation-Date: 2013-11-15 12:18+0100\n"
+"PO-Revision-Date: 2013-11-15 12:50+0100\n"
+"Last-Translator: Jens Meyer <webmaster@jensmeyer.de>\n"
+"Language-Team: www.jensmeyer.de <webmaster@jensmeyer.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;_n:1,2;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../sb-login.php:107
+msgid ""
+"An Ajax powered Login &amp; Register widget. See the ReadMe for "
+"customisation instructions."
+msgstr ""
+"Ein Login-/Register-widget mit Ajax-Support. Im LiesMich ist eine Anleitung "
+"zur Anpassung zu finden. "
+
+#: ../sb-login.php:108
+msgid "SB Login"
+msgstr "SB LogIn"
+
+#: ../sb-login.php:178 ../sb-login.php:233
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>FEHLER</strong>: Bitte einen Benutzernamen eingeben."
+
+#: ../sb-login.php:181
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>FEHLER</strong>: Bitte ein Passwort eingeben."
+
+#: ../sb-login.php:235
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr ""
+"<strong>FEHLER</strong>: Der Benutzername ist nicht korrekt. Bitte gib einen "
+"g&uuml;tigen Benutzernamen ein."
+
+#: ../sb-login.php:237
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>FEHLER</strong>: Dieser Benutzername ist bereits vergeben. Bitte "
+"w&auml:hle einen anderen."
+
+#: ../sb-login.php:241
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>FEHLER</strong>: Bitte gib deine E-Mail-Adresse ein."
+
+#: ../sb-login.php:243
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>FEHLER</strong>: Diese E-Mail-Adresse ist nicht korrekt."
+
+#: ../sb-login.php:245
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>FEHLER</strong>: Diese E-Mail-Adresse ist bereits registriert, bitte "
+"w&auml;hle eine andere."
+
+#: ../sb-login.php:249
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>FEHLER</strong>: Bitte gib ein Passwort ein."
+
+#: ../sb-login.php:251
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>FEHLER</strong>: Die Passworte stimmen nicht &uuml;berein."
+
+#: ../sb-login.php:261
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>FEHLER</strong>: Leider ist die Registrierung nicht m&ouml;glich. "
+"Bitte kontaktiere den <a href=\"mailto:%s\">Webmaster</a> !"
+
+#: ../sb-login.php:295
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+"<strong>FEHLER</strong>: Gib einen Benutzernamen oder eine E-Mail-Adresse an."
+
+#: ../sb-login.php:299
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+"<strong>FEHLER</strong>: Es ist kein Benutzer mit dieser E-Mail-Adresse "
+"registriert."
+
+#: ../sb-login.php:307
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+"<strong>FEHLER</strong>: Der Benutzername oder die E-Mail sind nicht korrekt."
+
+#: ../sb-login.php:328
+msgid "Password reset is not allowed for this user"
+msgstr "Eine &Auml;nderung des Passworts ist für diesen Benutzer nicht erlaubt"
+
+#: ../sb-login.php:351
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+"Jemand hat angefragt, das Passwort für die Webseite mit dem folgenden "
+"Benutzer zu ändern: "
+
+#: ../sb-login.php:353
+#, php-format
+msgid "Username: %s"
+msgstr "Benutzername : %s"
+
+#: ../sb-login.php:354
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+"Um das Passwort zurückzusetzen gehe zu folgender Webseite. Andernfalls "
+"ignoriere die Nachricht und es wird nichts passieren."
+
+#: ../sb-login.php:360
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Passwort zurücksetzen."
+
+#: ../sb-login.php:368
+msgid "Check your e-mail for the confirmation link."
+msgstr "Bitte prüfe Deine E-Mails auf einen Link zur Bestätigung."
+
+#: ../template/logged-in.php:9
+msgid "Welcome"
+msgstr "Willkommen "
+
+#: ../template/logged-in.php:12
+msgid "You last logged in on "
+msgstr "Letzte Anmeldung am "
+
+#: ../template/logged-in.php:12
+msgid "l \\t\\h\\e jS \\of F, Y \\a\\t h:ia"
+msgstr " \\ d.m.Y \\u\\m\\  H:i:s \\U\\h\\r"
+
+#: ../template/logged-in.php:18
+msgid "Since last logging in there has been "
+msgid_plural "Since last logging in there have been "
+msgstr[0] "Seit dem letzten Login gibt es "
+msgstr[1] "Seit dem letzten Login gibt es "
+
+#: ../template/logged-in.php:20
+msgid "new post and "
+msgid_plural "new posts and "
+msgstr[0] "neuer Beitrag "
+msgstr[1] "neue Beitr&auml;ge "
+
+#: ../template/logged-in.php:22
+msgid "new comment"
+msgid_plural "new comments"
+msgstr[0] "neuer Kommentar. "
+msgstr[1] "neue Kommentare. "
+
+#: ../template/logged-in.php:26
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../template/logged-in.php:27
+msgid "Edit Profile"
+msgstr "Profil anpassen"
+
+#: ../template/logged-in.php:28
+msgid "Log out"
+msgstr "Abmelden"
+
+#: ../template/logged-in.php:33
+msgid "Recently Viewed Posts"
+msgstr "Letzte angesehene Beitr&auml;ge:"
+
+#: ../template/logged-in.php:45
+msgid "You have not viewed any posts recently."
+msgstr "Keine Beitr&auml;ge bisher angesehen. "
+
+#: ../template/logged-in.php:49
+msgid "My Recent Comments"
+msgstr "Meine letzten Kommentare:"
+
+#: ../template/logged-in.php:69
+msgid "You have not made any comments."
+msgstr "Du hast noch keine Kommentare abgegeben. "
+
+#: ../template/login-form.php:15 ../template/register-form.php:15
+msgid "Username"
+msgstr "Login "
+
+#: ../template/login-form.php:16 ../template/register-form.php:17
+msgid "Password"
+msgstr "Passwort "
+
+#: ../template/login-form.php:18
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: ../template/login-form.php:18
+msgid "Login &rarr;"
+msgstr "Anmeldung"
+
+#: ../template/lost-password-form.php:15
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr ""
+"Bitte gib deinen Benutzernamen oder die E-Mail ein. Du wirst ein neues "
+"Passwort per E-Mail erhalten. "
+
+#: ../template/lost-password-form.php:17
+msgid "Username/Email"
+msgstr "Benutzername/E-Mail"
+
+#: ../template/lost-password-form.php:17 ../template/register-form.php:16
+msgid "you@yourdomain.com"
+msgstr "name@domain.de"
+
+#: ../template/lost-password-form.php:19
+msgid "Get New Password &rarr;"
+msgstr "Neues Passwort anfordern"
+
+#: ../template/register-form.php:16
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../template/register-form.php:18
+msgid "Re-enter"
+msgstr "Wiederholen"
+
+#: ../template/register-form.php:18
+msgid "Re-enter Password"
+msgstr "Passwort wiederholen "
+
+#: ../template/register-form.php:20
+msgid "Register &rarr;"
+msgstr "Anmeldeformular &rarr;"
+
+#: ../template/tabs.php:10
+msgid "Recent Activity"
+msgstr "Letzte Aktivit&auml;t "
+
+#: ../template/tabs.php:16
+msgid "Login"
+msgstr "Anmelden"
+
+#: ../template/tabs.php:17
+msgid "Register"
+msgstr "Registrieren"

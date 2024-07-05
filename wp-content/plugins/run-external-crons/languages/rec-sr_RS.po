@@ -1,0 +1,157 @@
+# Copyright (C) 2012 Run External Crons
+# This file is distributed under the same license as the Run External Crons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Run External Crons 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/run-external-crons\n"
+"POT-Creation-Date: 2012-08-14 23:02:49+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Milan Dinić <milan@srpski.biz>\n"
+"Language-Team: Milan <milan@srpski.biz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/settings.php:54
+msgid "Run External Cron Settings"
+msgstr "Подешавања за Покрени спољашње кронове"
+
+#: inc/settings.php:57
+msgid ""
+"To add a new URL to the list, you need to press &#8220;Add new URL&#8221; "
+"button. That will show a new row with fields for URL and interval in which "
+"cron for that URL should be run. You can add unlimited number or URLs."
+msgstr ""
+"Да бисте додали нови URL на списак, морате да притиснете дугме &#132;Додај "
+"нови URL&#147;. То ће приказати нови ред са пољима за тај URL и размаком у "
+"ком би тај URL требало да буде покренут. Можете додати неограничен број URL-"
+"ова."
+
+#: inc/settings.php:58
+msgid ""
+"You don&#8217;t need to fill interval for each URL, if left blank, lowest "
+"interval will be used, or 3600 seconds by default."
+msgstr ""
+"Не морате да додајете размаке за сваки URL, уколико је остављено празно, "
+"најмањи размак ће бити коришћен, подразуменано 3600 секунди."
+
+#: inc/settings.php:59
+msgid ""
+"If you want to remove URL from the list, just press button &#8220;-&#8221; "
+"for that URL."
+msgstr ""
+"Уколико желите да уконите URL са списка, само притисните на дугме &#132;-"
+"&#147; за тај URL."
+
+#: inc/settings.php:60
+msgid ""
+"Check <a href=\"http://blog.milandinic.com/wordpress/plugins/run-external-"
+"crons/\">documentation</a> for more information."
+msgstr ""
+"Погледајте <a href=\"http://blog.milandinic.com/wordpress/plugins/run-"
+"external-crons/\">документацију</a> за више података."
+
+#: inc/settings.php:61
+msgid ""
+"Don&#8217;t forget to press &#8220;Save settings&#8221; when you finish!"
+msgstr ""
+"Не заборавите да притиснете &#132;Сачувај подешавања&#147; када завршите!"
+
+#: inc/settings.php:69
+msgid "URL"
+msgstr "URL"
+
+#: inc/settings.php:69
+msgid "Interval (in seconds)"
+msgstr "Размак (у секундама)"
+
+#: inc/settings.php:85 inc/settings.php:142 inc/settings.php:143
+msgid "Remove URL"
+msgstr "Уклони URL"
+
+#: inc/settings.php:97
+msgid "Add new URL"
+msgstr "Додај нови URL"
+
+#: inc/settings.php:98
+msgid "Save settings"
+msgstr "Сачувај подешавања"
+
+#: inc/settings.php:102
+msgid "Like this plugin?"
+msgstr "Свиђа вам се овај додатак?"
+
+#: inc/settings.php:104
+msgid "Why not do any or all of the following:"
+msgstr "Зашто не урадите нешто или све од следећег:"
+
+#: inc/settings.php:106
+msgid "Link to it so other can find out about it"
+msgstr "Оставите везу ка њему како би и други могли да сазнају о њему"
+
+#: inc/settings.php:107
+msgid "Give it a good rating on WordPress.org"
+msgstr "Дајте му добру оцену на WordPress.org"
+
+#: inc/settings.php:108
+msgid "Help out other users in the forums"
+msgstr "Помогните другим корисницима на форуму"
+
+#: inc/settings.php:109
+msgid "Follow Milan&#8217;s blog"
+msgstr "Пратите Миланов блог"
+
+#: inc/settings.php:110
+msgid "Follow Milan on Twitter"
+msgstr "Пратите Милана на Твитеру"
+
+#: inc/settings.php:111 inc/settings.php:113
+msgctxt "settings sidebar link"
+msgid "Donate"
+msgstr "Донирајте"
+
+#: inc/settings.php:125 inc/settings.php:126
+msgid "New URL"
+msgstr "Нови URL"
+
+#: inc/settings.php:245
+msgid "Settings updated"
+msgstr "Подешавања су ажурирана"
+
+#: run-external-crons.php:113
+msgctxt "plugin actions link"
+msgid "Settings"
+msgstr "Подешавања"
+
+#: run-external-crons.php:114
+msgid "Donate"
+msgstr "Донација"
+
+#: run-external-crons.php:141
+msgid "Run External Cron Interval"
+msgstr "Размак за Покрени спољашње кронове"
+
+#. #-#-#-#-#  plugin.pot (Run External Crons 0.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: run-external-crons.php:156
+msgid "Run External Crons"
+msgstr "Покрени спољашње кронове"
+
+#. Plugin URI of the plugin/theme
+msgid "http://blog.milandinic.com/wordpress/plugins/run-external-crons/"
+msgstr "http://blog.milandinic.com/wordpress/plugins/run-external-crons/"
+
+#. Description of the plugin/theme
+msgid ""
+"Use WordPress internal cron system to hit external URLs on a scheduled basis."
+msgstr ""
+"Користите Вордпресов унутрашњи систем за крон за отварање спољашњих URL-ова "
+"у заказано време."
+
+#. Author of the plugin/theme
+msgid "Milan Dinić"
+msgstr "Милан Динић"
+
+#. Author URI of the plugin/theme
+msgid "http://blog.milandinic.com/"
+msgstr "http://www.milandinic.com/"

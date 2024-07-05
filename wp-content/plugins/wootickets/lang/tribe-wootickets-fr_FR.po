@@ -1,0 +1,153 @@
+# Tribe Events WooTickets by Modern Tribe, Inc.
+# Copyright (C) Modern Tribe, Inc.
+# This file is distributed under the same license as the Tribe Events WooTickets package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tribe Events WooTickets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-26 12:59-0800\n"
+"PO-Revision-Date: 2013-07-24 15:51-0400\n"
+"Last-Translator: Paul Hughes <paul@paulalexanderhughes.com>\n"
+"Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ./\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wootickets.php:125
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: ../wootickets.php:126
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../wootickets.php:131 ../wootickets.php:133
+#, php-format
+msgid ""
+"To begin using WooTickets, please install the latest version of <a href=\"%s"
+"\" class=\"thickbox\" title=\"%s\">%s</a>."
+msgstr ""
+"Pour commencer à utiliser WooTickets, veuillez installer la dernière version "
+"de <a href=\"%s\" class=\"thickbox\" title=\"%s\">%s</a>."
+
+#: ../admin-views/metabox-advanced.php:12
+msgid "SKU:"
+msgstr "SKU :"
+
+#: ../admin-views/metabox-advanced.php:25
+msgid ""
+"Currently, WooTickets will only show up on the frontend once per full event. "
+"For PRO users this means the same ticket will appear across all events in "
+"the series. Please configure your events accordingly."
+msgstr ""
+"Actuellement, WootTickets apparait une seule fois pour chaque évènement.  "
+"Pour les utilisateurs PRO cela signifie que le même billet apparaîtra dans "
+"tous les événements de la série (récurrent). Veuillez configurer vos "
+"événements en conséquence."
+
+#: ../classes/class-ticket-email.php:13 ../views/tickets.php:99
+msgid "Tickets"
+msgstr "Tickets"
+
+#: ../classes/class-ticket-email.php:14
+msgid ""
+"Email the user will recieve after a completed order with the tickets he "
+"purchased."
+msgstr ""
+"L'email que recevra l'utilisateur après qu'il ai terminé sa commande avec "
+"les tickets qu'il a acheté."
+
+#: ../classes/class-ticket-email.php:16
+msgid "Your tickets from {sitename}"
+msgstr "Vos tickets de {sitename}"
+
+#: ../classes/class-ticket-email.php:97
+msgid "Subject"
+msgstr "Sujet"
+
+#: ../classes/class-ticket-email.php:99
+#, php-format
+msgid "Defaults to <code>%s</code>"
+msgstr "Par défaut <code>%s</code>"
+
+#: ../classes/class-wootickets.php:536
+#, php-format
+msgid "In trash (was %s)"
+msgstr "La corbeille (était %s)"
+
+#: ../classes/class-wootickets.php:539
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: ../classes/class-wootickets.php:546
+msgid "(deleted)"
+msgstr "(supprimé)"
+
+#: ../classes/class-wootickets.php:745
+msgid "This is a ticket for the event:"
+msgstr "Ceci est un ticket pour l'évènement : "
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:9
+#: ../vendor/pue-client/admin-views/license-key.view.php:13
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:185
+msgid "License Key"
+msgstr "Clé de la licence"
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:10
+msgid "A valid license key is required for support and updates."
+msgstr ""
+"Une clé de licence valide est nécessaire pour accéder au support et aux "
+"mises à jours."
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:16
+msgid "Replace empty fields"
+msgstr "Remplacez les champs vides"
+
+#: ../vendor/pue-client/admin-views/license-key.view.php:25
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:186
+msgid "A valid license key is required for support and updates"
+msgstr ""
+"Une clé de licence valide est nécessaire pour accéder au support et aux "
+"mises à jours."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:254
+msgid "License key(s) updated."
+msgstr "Clé(s) de licence mise à jour."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:294
+msgid "Sorry, key validation server is not available."
+msgstr "Désolé, la validation de la clé sur le serveur n'est pas disponible."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:296
+msgid "Sorry, this key is expired."
+msgstr "Désolé, cette clé a expirée."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:298
+msgid "Sorry, this key is out of installs."
+msgstr "Désolé, cette clé a déja été utilisée."
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:300
+msgid "Sorry, this key is not valid."
+msgstr "Désolé, cette clé n'est pas valide"
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:303
+#, php-format
+msgid "Valid Key! Expires on %s"
+msgstr "Votre clé est valide ! Elle expire le %s"
+
+#: ../vendor/pue-client/lib/pue_plugin_update_engine.class.php:307
+#, php-format
+msgid ""
+"Hmmm... something's wrong with this validator. Please contact <a href=\"%s"
+"\">support.</a>"
+msgstr ""
+"Hmmm… quelque chose ne va pas avec ce validateur. Veuillez contacter <a href="
+"\"%s\">support.</a>"

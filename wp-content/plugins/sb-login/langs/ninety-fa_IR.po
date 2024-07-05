@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sb-login\n"
+"POT-Creation-Date: 2013-02-09 20:12+0330\n"
+"PO-Revision-Date: 2013-02-28 13:09+0330\n"
+"Last-Translator: Alimir <info@alimir.ir>\n"
+"Language-Team: www.alimir.ir <info@alimir.ir>\n"
+"Language: Persian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;_n;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../sb-login.php:94
+msgid ""
+"An Ajax powered Login &amp; Register widget. See the ReadMe for "
+"customisation instructions."
+msgstr "افزونه ورود و خروج آجاکسی sb-login"
+
+#: ../sb-login.php:95
+msgid "SB Login"
+msgstr "فرم ورود اس بی"
+
+#: ../sb-login.php:165 ../sb-login.php:220
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>خطا</strong>: یک شناسه بنویسید"
+
+#: ../sb-login.php:168
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>خطا</strong>: رمز عبور خود را وارد کنید."
+
+#: ../sb-login.php:222
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr ""
+"<strong>خطا</strong>: نام کاربری صحیح نمی باشد، لطفا یک نام کاربری معتبر را "
+"وارد کنید."
+
+#: ../sb-login.php:224
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>خطا</strong>: این نام کاربری قبلا استفاده شده است، لطفا یک نام "
+"کاربری دیگر را انتخاب کنید."
+
+#: ../sb-login.php:228
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>خطا</strong>:  لطفا ایمیل خود را وارد کنید."
+
+#: ../sb-login.php:230
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>خطا</strong>: ایمیل نامعتبر است!"
+
+#: ../sb-login.php:232
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>خطا</strong>: این ایمیل قبلا ثبت شده است، لطفا یک ایمیل دیگر را وارد "
+"کنید."
+
+#: ../sb-login.php:236
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>خطا</strong>: لطفا یک رمز عبور را وارد نمایید."
+
+#: ../sb-login.php:238
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>خطا</strong>:  کلمات عبور وارده شده توسط شما مطابقت ندارند!"
+
+#: ../sb-login.php:248
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>خطا</strong>:  در حال حاضر نمی توانید عضو شوید! لطفا با <a href="
+"\"mailto:%s\">مدیریت</a> تماس بگیرید."
+
+#: ../sb-login.php:282
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>خطا</strong>: لطفا نام کاربری یا رمز عبور خود را وارد نمایید."
+
+#: ../sb-login.php:286
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong> خطا </strong>: کاربری با این ایمیل وجود ندارد!"
+
+#: ../sb-login.php:294
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>خطا</strong>: نام کاربری یا رمز عبور اشتباه است."
+
+#: ../sb-login.php:315
+msgid "Password reset is not allowed for this user"
+msgstr "تغییر رمز عبور برای این کاربر میسر نیست!"
+
+#: ../sb-login.php:338
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr "تقاضای تغییررمز عبور نام کاربری زیر:"
+
+#: ../sb-login.php:340
+#, php-format
+msgid "Username: %s"
+msgstr "نام کاربری : %s"
+
+#: ../sb-login.php:341
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr "برای بازیابی رمز عبور بر روی لینک زیر کلیک کنید:"
+
+#: ../sb-login.php:347
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] رمز عبور بازیابی شد"
+
+#: ../sb-login.php:355
+msgid "Check your e-mail for the confirmation link."
+msgstr "لینک تأیید به ایمیل شما ارسال شد."
+
+#: ../template/logged-in.php:26
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: ../template/logged-in.php:29
+msgid "You last logged in on "
+msgstr "زمان آخرین ورود شما:"
+
+#: ../template/logged-in.php:29
+msgid "l \\t\\h\\e jS \\of F, Y \\a\\t h:ia"
+msgstr "F j, Y"
+
+#: ../template/logged-in.php:35
+msgid "Since last logging in there has been "
+msgstr "وقایع اتفاقی از آخرین ورود:"
+
+#: ../template/logged-in.php:37
+msgid "new post and "
+msgstr "پست جدید"
+
+#: ../template/logged-in.php:39
+msgid "new comment"
+msgstr "دیدگاه جدید"
+
+#: ../template/logged-in.php:43
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: ../template/logged-in.php:44
+msgid "Edit Profile"
+msgstr "ویرایش پروفایل"
+
+#: ../template/logged-in.php:45
+msgid "Log out"
+msgstr "خروج"
+
+#: ../template/logged-in.php:50
+msgid "Recently Viewed Posts"
+msgstr "آخرین پست های بازدید شده:"
+
+#: ../template/logged-in.php:62
+msgid "You have not viewed any posts recently."
+msgstr "موردی یافت نشد!"
+
+#: ../template/logged-in.php:66
+msgid "My Recent Comments"
+msgstr "آخرین دیدگاه های ارسالی شما:"
+
+#: ../template/logged-in.php:86
+msgid "You have not made any comments."
+msgstr "موردی یافت نشد!"
+
+#: ../template/login-form.php:16 ../template/register-form.php:16
+msgid "Username"
+msgstr "نام کاربری"
+
+#: ../template/login-form.php:17 ../template/register-form.php:18
+msgid "Password"
+msgstr "رمز عبور"
+
+#: ../template/login-form.php:19
+msgid "Lost your password?"
+msgstr "بازیابی کلمه عبور"
+
+#: ../template/login-form.php:19
+msgid "Login &rarr;"
+msgstr "&rarr; ورود"
+
+#: ../template/lost-password-form.php:17
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr ""
+"اگر کلمه عبور خود را فراموش کرده اید از طریق این فرم می توانید آن را تغییر "
+"دهید. لطفا نام کاربری  یا ایمیل خود را وارد نمایید ، شما به زودی ایمیلی "
+"دریافت خواهید کرد که حاوی رمز عبور جدید شماست. "
+
+#: ../template/lost-password-form.php:19
+msgid "Username/Email"
+msgstr "نام کاربری/ایمیل"
+
+#: ../template/lost-password-form.php:19 ../template/register-form.php:17
+msgid "you@yourdomain.com"
+msgstr "ایمیل خود را وارد کنید"
+
+#: ../template/lost-password-form.php:21
+msgid "Get New Password &rarr;"
+msgstr "&rarr; تعویض رمز عبور"
+
+#: ../template/register-form.php:17
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../template/register-form.php:19
+msgid "Re-enter"
+msgstr "مجددا وارد نمایید"
+
+#: ../template/register-form.php:19
+msgid "Re-enter Password"
+msgstr "تکرار رمز عبور"
+
+#: ../template/register-form.php:21
+msgid "Register &rarr;"
+msgstr "&rarr; عضویت"
+
+#: ../template/tabs.php:27
+msgid "Recent Activity"
+msgstr "آخرین فعالیت ها"
+
+#: ../template/tabs.php:33
+msgid "Login"
+msgstr "ورود"
+
+#: ../template/tabs.php:34
+msgid "Register"
+msgstr "عضویت"

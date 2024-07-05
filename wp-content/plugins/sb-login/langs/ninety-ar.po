@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: sb-login\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+
+#: ../sb-login.php:107
+msgid "An Ajax powered Login &amp; Register widget. See the ReadMe for customisation instructions."
+msgstr "اضافة دخول وتسجيل تعمل بالأجاكس . انظر اقرا المزيد لكيفية التخصيص "
+
+#: ../sb-login.php:108
+msgid "SB Login"
+msgstr "الدخول والتسجيل"
+
+#: ../sb-login.php:178 ../sb-login.php:233
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>خطأ</strong>: الرجاء إدخال اسم المستخدم."
+
+#: ../sb-login.php:181
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>خطأ</strong>: الرجاء إدخال كلمة المرور."
+
+#: ../sb-login.php:235
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr "<strong>خطأ</strong>: هذا المستخدم غير صالح. الرجاء إدخال  اسم مستخدم صالح."
+
+#: ../sb-login.php:237
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>خطأ</strong>: تم تسجيل هذا المستخدم مسبقا، يرجى اختيار اسم آخر."
+
+#: ../sb-login.php:241
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>خطأ</strong>: الرجاء كتابة عنوان البريد الإلكتروني الخاص بك."
+
+#: ../sb-login.php:243
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>خطأ</strong>: عنوان البريد الإلكتروني غير صحيح."
+
+#: ../sb-login.php:245
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>خطأ</strong>: هذا البريد الإلكتروني مسجل مسبقا، يرجى اختيار بريد آخر."
+
+#: ../sb-login.php:249
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>خطأ</strong>: الرجاء إدخال كلمة المرور."
+
+#: ../sb-login.php:251
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>خطأ</strong>: كلمات المرور غير متطابقة."
+
+#: ../sb-login.php:261
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>خطأ</strong>: تعذر التسجيل... يرجى الاتصال  le <a href=\"mailto:%s\">المسؤول عن الموقع</a> !"
+
+#: ../sb-login.php:295
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>خطأ</strong>: ادخل اسم المستخدم أو عنوان البريد الإلكتروني."
+
+#: ../sb-login.php:299
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>خطأ</strong>: لا يوجد أي مستخدم مسجل بهذا  البريد الإلكتروني."
+
+#: ../sb-login.php:307
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>خطأ</strong>: اسم المستخدم أو البريد الإلكتروني غير صحيح."
+
+#: ../sb-login.php:328
+msgid "Password reset is not allowed for this user"
+msgstr "غير مسموح إعادة تعيين كلمة المرور لهذا المستخدم"
+
+#: ../sb-login.php:351
+msgid "Someone has asked to reset the password for the following site and username."
+msgstr "لقد سأل أحدهم لإعادة تعيين كلمة المرور واسم المستخدم لهذاالموقع\"."
+
+#: ../sb-login.php:353
+msgid "Username: %s"
+msgstr "اسم المستخدم : %s"
+
+#: ../sb-login.php:354
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr "لإعادة ضبط كلمة المرور الخاصة بك زيارة العنوان التالي أووإلا، ببساطة تجاهل هذه الرسالة ولن يحدث شيئا."
+
+#: ../sb-login.php:360
+msgid "[%s] Password Reset"
+msgstr "[%s] إعادة تعيين كلمة المرور"
+
+#: ../sb-login.php:368
+msgid "Check your e-mail for the confirmation link."
+msgstr "التحقق من بريدك الالكتروني لتأكيد الصلة."
+
+#: ../template/logged-in.php:9
+msgid "Welcome"
+msgstr "مرحبا"
+
+#: ../template/logged-in.php:12
+msgid "You last logged in on "
+msgstr "كنت آخر تسجيل دخول في"
+
+#: ../template/logged-in.php:12
+msgid "l \\t\\h\\e jS \\of F, Y \\a\\t h:ia"
+msgstr "l \ \\h\\e jS \\of F, Y \\a\ h:ia"
+
+#: ../template/logged-in.php:18
+msgid "Since last logging in there has been "
+msgid_plural "Since last logging in there have been "
+msgstr[0] "منذ اخر تسجيل دخول كان هناك "
+msgstr[1] "منذ اخر تسجيل دخول كان هناك "
+msgstr[2] "منذ اخر تسجيل دخول كان هناك "
+msgstr[3] "منذ اخر تسجيل دخول كان هناك "
+msgstr[4] "منذ اخر تسجيل دخول كان هناك "
+msgstr[5] "منذ اخر تسجيل دخول كان هناك "
+
+#: ../template/logged-in.php:20
+msgid "new post and "
+msgid_plural "new posts and "
+msgstr[0] "خبر جديد و "
+msgstr[1] "خبر جديد و "
+msgstr[2] "خبر جديد و "
+msgstr[3] "خبر جديد و "
+msgstr[4] "خبر جديد و "
+msgstr[5] "خبر جديد و "
+
+#: ../template/logged-in.php:22
+msgid "new comment"
+msgid_plural "new comments"
+msgstr[0] "تعليقات جديدة"
+msgstr[1] "تعليقات جديدة"
+msgstr[2] "تعليقات جديدة"
+msgstr[3] "تعليقات جديدة"
+msgstr[4] "تعليقات جديدة"
+msgstr[5] "تعليقات جديدة"
+
+#: ../template/logged-in.php:26
+msgid "Dashboard"
+msgstr "لوحة المعلومات"
+
+#: ../template/logged-in.php:27
+msgid "Edit Profile"
+msgstr "الملف الشخصي"
+
+#: ../template/logged-in.php:28
+msgid "Log out"
+msgstr "تسجيل الخروج"
+
+#: ../template/logged-in.php:33
+msgid "Recently Viewed Posts"
+msgstr "المشاركات تم الاطلاع عليها مؤخرا:"
+
+#: ../template/logged-in.php:45
+msgid "You have not viewed any posts recently."
+msgstr "<br />أنت لم تنظر إلى أي مشاركات مؤخرآ"
+
+#: ../template/logged-in.php:49
+msgid "My Recent Comments"
+msgstr "التعليقات التي قمت بها مؤخرا:"
+
+#: ../template/logged-in.php:69
+msgid "You have not made any comments."
+msgstr "<br />أنت لم تصدر أي تعليق."
+
+#: ../template/login-form.php:15 ../template/register-form.php:15
+#: ../template/modificati/register-form.php:16
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: ../template/login-form.php:16 ../template/register-form.php:17
+#: ../template/modificati/register-form.php:18
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: ../template/login-form.php:18
+msgid "Lost your password?"
+msgstr "فقدت كلمة المرور؟"
+
+#: ../template/login-form.php:18
+msgid "Login &rarr;"
+msgstr "تسجيل الدخول &rarr;"
+
+#: ../template/lost-password-form.php:15
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr "الرجاء إدخال اسم المستخدم أو عنوان البريد الإلكتروني الخاص بك. سوف تتلقى كلمة المرور الجديدة عبر البريد الإلكتروني."
+
+#: ../template/lost-password-form.php:17
+msgid "Username/Email"
+msgstr "اسم المستخدم / البريد الإلكتروني"
+
+#: ../template/lost-password-form.php:17 ../template/register-form.php:16
+#: ../template/modificati/register-form.php:17
+msgid "you@yourdomain.com"
+msgstr "you@yourdomain.com"
+
+#: ../template/lost-password-form.php:19
+msgid "Get New Password &rarr;"
+msgstr "الحصول على كلمة المرور الجديدة &rarr;"
+
+#: ../template/register-form.php:16
+#: ../template/modificati/register-form.php:17
+msgid "Email"
+msgstr "E-mail"
+
+#: ../template/register-form.php:18
+#: ../template/modificati/register-form.php:19
+msgid "Re-enter"
+msgstr "إعادة إدخال"
+
+#: ../template/register-form.php:18
+#: ../template/modificati/register-form.php:19
+msgid "Re-enter Password"
+msgstr "إعادة إدخال كلمة المرور"
+
+#: ../template/register-form.php:20
+#: ../template/modificati/register-form.php:21
+msgid "Register &rarr;"
+msgstr "تسجيل &rarr;"
+
+#: ../template/tabs.php:10 ../template/modificati/tabs.php:10
+msgid "Recent Activity"
+msgstr "النشاط الأخير"
+
+#: ../template/tabs.php:16 ../template/modificati/tabs.php:16
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: ../template/tabs.php:17 ../template/modificati/tabs.php:17
+msgid "Register"
+msgstr "التسجيل"
+
